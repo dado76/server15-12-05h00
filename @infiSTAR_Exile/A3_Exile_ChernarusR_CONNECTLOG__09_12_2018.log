@@ -1,0 +1,87 @@
+﻿09.12.2018 01:16:48: Connected (UID?): __SERVER__() Owner: 2
+09.12.2018 04:17:39: Connected (UID?): __SERVER__() Owner: 2
+09.12.2018 14:02:48: Connected (UID?): __SERVER__() Owner: 2
+09.12.2018 14:08:03: Connected: dado(76561198044866508) Owner: 4
+09.12.2018 14:08:05: Connected (CLIENT_PING): dado(76561198044866508) Owner: 4, SteamName: DADO   [UpTime: 0h 3min 50s - ServerFPS: 49.5356]
+09.12.2018 14:10:15: Connected: Julius(76561198020201324) Owner: 5
+09.12.2018 14:10:19: Connected (CLIENT_PING): Julius(76561198020201324) Owner: 5, SteamName: Netzouille La Couille   [UpTime: 0h 6min 3s - ServerFPS: 49.8442]
+09.12.2018 14:39:10: Connected: Lazouille(76561197981840743) Owner: 9
+09.12.2018 14:39:23: Connected (CLIENT_PING): Lazouille(76561197981840743) Owner: 9, SteamName: Lazouille   [UpTime: 0h 34min 59s - ServerFPS: 47.619]
+09.12.2018 15:43:22: Disconnected: dado(76561198044866508) Owner: 4, SteamName: DADO
+09.12.2018 15:43:38: Connected: dado(76561198044866508) Owner: 11
+09.12.2018 15:43:39: Connected (CLIENT_PING): dado(76561198044866508) Owner: 11, SteamName: DADO   [UpTime: 1h 39min 7s - ServerFPS: 49.8442]
+09.12.2018 15:44:20: Disconnected: dado(76561198044866508) Owner: 11, SteamName: DADO
+09.12.2018 15:44:38: Connected: dado(76561198044866508) Owner: 12
+09.12.2018 15:44:40: Connected (CLIENT_PING): dado(76561198044866508) Owner: 12, SteamName: DADO   [UpTime: 1h 40min 8s - ServerFPS: 50]
+09.12.2018 15:54:27: Disconnected: dado(76561198044866508) Owner: 12, SteamName: DADO
+09.12.2018 15:55:55: Connected: dado(76561198044866508) Owner: 13
+09.12.2018 15:55:57: Connected (CLIENT_PING): dado(76561198044866508) Owner: 13, SteamName: DADO   [UpTime: 1h 51min 25s - ServerFPS: 50.1567]
+09.12.2018 15:56:50: Disconnected: dado(76561198044866508) Owner: 13, SteamName: DADO
+09.12.2018 15:57:05: Connected: dado(76561198044866508) Owner: 14
+09.12.2018 15:57:06: Connected (CLIENT_PING): dado(76561198044866508) Owner: 14, SteamName: DADO   [UpTime: 1h 52min 34s - ServerFPS: 46.5116]
+09.12.2018 15:57:59: Disconnected: dado(76561198044866508) Owner: 14, SteamName: DADO
+09.12.2018 15:58:15: Connected: dado(76561198044866508) Owner: 15
+09.12.2018 15:58:16: Connected (CLIENT_PING): dado(76561198044866508) Owner: 15, SteamName: DADO   [UpTime: 1h 53min 43s - ServerFPS: 45.1977]
+09.12.2018 15:58:45: Disconnected: dado(76561198044866508) Owner: 15, SteamName: DADO
+09.12.2018 16:00:49: Connected: dado(76561198044866508) Owner: 16
+09.12.2018 16:00:51: Connected (CLIENT_PING): dado(76561198044866508) Owner: 16, SteamName: DADO   [UpTime: 1h 56min 18s - ServerFPS: 45.4545]
+09.12.2018 16:03:25: Disconnected: dado(76561198044866508) Owner: 16, SteamName: DADO
+09.12.2018 16:05:58: Connected: dado(76561198044866508) Owner: 17
+09.12.2018 16:06:00: Connected (CLIENT_PING): dado(76561198044866508) Owner: 17, SteamName: DADO   [UpTime: 2h 1min 26s - ServerFPS: 47.0588]
+09.12.2018 16:06:09: Disconnected: dado(76561198044866508) Owner: 17, SteamName: DADO
+09.12.2018 16:06:24: Connected: dado(76561198044866508) Owner: 18
+09.12.2018 16:06:25: Connected (CLIENT_PING): dado(76561198044866508) Owner: 18, SteamName: DADO   [UpTime: 2h 1min 52s - ServerFPS: 46.3768]
+09.12.2018 16:22:54: Disconnected: dado(76561198044866508) Owner: 18, SteamName: DADO
+09.12.2018 16:23:10: Connected: dado(76561198044866508) Owner: 20
+09.12.2018 16:23:11: Connected (CLIENT_PING): dado(76561198044866508) Owner: 20, SteamName: DADO   [UpTime: 2h 18min 36s - ServerFPS: 36.6133]
+09.12.2018 16:36:00: Disconnected: dado(76561198044866508) Owner: 20, SteamName: DADO
+09.12.2018 16:36:16: Disconnected: Lazouille(76561197981840743) Owner: 9, SteamName: Lazouille
+09.12.2018 16:37:28: Disconnected: Julius(76561198020201324) Owner: 5, SteamName: Netzouille La Couille
+09.12.2018 16:41:09: Connected (UID?): __SERVER__() Owner: 2
+09.12.2018 16:41:30: Connected: dado(76561198044866508) Owner: 4
+09.12.2018 16:41:33: Connected (CLIENT_PING): dado(76561198044866508) Owner: 4, SteamName: DADO   [UpTime: 0h 0min 13s - ServerFPS: 45.4545]
+09.12.2018 16:43:50: Connected: ruben(76561198001995359) Owner: 6
+09.12.2018 16:43:52: Connected (CLIENT_PING): ruben(76561198001995359) Owner: 6, SteamName: RUBO   [UpTime: 0h 1min 11s - ServerFPS: 49.6894]
+09.12.2018 16:44:09: Connected: Lazouille(76561197981840743) Owner: 5
+09.12.2018 16:44:18: Connected (CLIENT_PING): Lazouille(76561197981840743) Owner: 5, SteamName: Lazouille   [UpTime: 0h 1min 37s - ServerFPS: 50]
+09.12.2018 16:46:42: Disconnected: ruben(76561198001995359) Owner: 6, SteamName: RUBO
+09.12.2018 16:54:18: Disconnected: Lazouille(76561197981840743) Owner: 5, SteamName: Lazouille
+09.12.2018 16:58:50: Connected: Lazouille(76561197981840743) Owner: 7
+09.12.2018 16:58:58: Connected (CLIENT_PING): Lazouille(76561197981840743) Owner: 7, SteamName: Lazouille   [UpTime: 0h 16min 14s - ServerFPS: 49.8442]
+09.12.2018 18:52:20: Connected: Julius(76561198020201324) Owner: 10
+09.12.2018 18:52:25: Connected (CLIENT_PING): Julius(76561198020201324) Owner: 10, SteamName: Netzouille La Couille   [UpTime: 2h 9min 26s - ServerFPS: 50.4732]
+09.12.2018 18:56:33: Connected: v1(76561198168988383) Owner: 11
+09.12.2018 18:56:37: Connected (CLIENT_PING): v1(76561198168988383) Owner: 11, SteamName: dadoprso76   [UpTime: 2h 13min 38s - ServerFPS: 31.8091]
+09.12.2018 19:08:45: Disconnected: Julius(76561198020201324) Owner: 10, SteamName: Netzouille La Couille
+09.12.2018 19:23:58: Disconnected: Lazouille(76561197981840743) Owner: 7, SteamName: Lazouille
+09.12.2018 19:27:27: Disconnected: v1(76561198168988383) Owner: 11, SteamName: dadoprso76
+09.12.2018 19:27:29: Disconnected: dado(76561198044866508) Owner: 4, SteamName: DADO
+09.12.2018 19:31:05: Connected (UID?): __SERVER__() Owner: 2
+09.12.2018 19:36:05: Connected: v1(76561198168988383) Owner: 7
+09.12.2018 19:36:07: Connected (CLIENT_PING): v1(76561198168988383) Owner: 7, SteamName: dadoprso76   [UpTime: 0h 3min 24s - ServerFPS: 50]
+09.12.2018 19:36:15: Connected: dado(76561198044866508) Owner: 10
+09.12.2018 19:36:16: Connected (CLIENT_PING): dado(76561198044866508) Owner: 10, SteamName: DADO   [UpTime: 0h 3min 32s - ServerFPS: 50]
+09.12.2018 19:37:29: Connected: Lazouille(76561197981840743) Owner: 11
+09.12.2018 19:37:39: Connected (CLIENT_PING): Lazouille(76561197981840743) Owner: 11, SteamName: Lazouille   [UpTime: 0h 4min 54s - ServerFPS: 49.6894]
+09.12.2018 19:40:10: Connected: Julius(76561198020201324) Owner: 12
+09.12.2018 19:40:14: Connected (CLIENT_PING): Julius(76561198020201324) Owner: 12, SteamName: Netzouille La Couille   [UpTime: 0h 7min 28s - ServerFPS: 49.6894]
+09.12.2018 19:46:29: Connected: Zero(76561198096016058) Owner: 13
+09.12.2018 19:46:34: Connected (CLIENT_PING): Zero(76561198096016058) Owner: 13, SteamName: Zero   [UpTime: 0h 13min 43s - ServerFPS: 50]
+09.12.2018 20:14:11: Disconnected: Julius(76561198020201324) Owner: 12, SteamName: Netzouille La Couille
+09.12.2018 20:16:19: Connected: Julius(76561198020201324) Owner: 15
+09.12.2018 20:16:25: Connected (CLIENT_PING): Julius(76561198020201324) Owner: 15, SteamName: Netzouille La Couille   [UpTime: 0h 43min 25s - ServerFPS: 50.3145]
+09.12.2018 20:54:19: Disconnected: Zero(76561198096016058) Owner: 13, SteamName: Zero
+09.12.2018 21:02:48: Connected: Zero(76561198096016058) Owner: 17
+09.12.2018 21:02:54: Connected (CLIENT_PING): Zero(76561198096016058) Owner: 17, SteamName: Zero   [UpTime: 1h 29min 48s - ServerFPS: 48.4848]
+09.12.2018 21:21:55: Disconnected: dado(76561198044866508) Owner: 10, SteamName: DADO
+09.12.2018 21:23:33: Connected: dado(76561198044866508) Owner: 18
+09.12.2018 21:23:35: Connected (CLIENT_PING): dado(76561198044866508) Owner: 18, SteamName: DADO   [UpTime: 1h 50min 27s - ServerFPS: 41.0256]
+09.12.2018 21:51:16: Disconnected: Lazouille(76561197981840743) Owner: 11, SteamName: Lazouille
+09.12.2018 21:58:56: Disconnected: dado(76561198044866508) Owner: 18, SteamName: DADO
+09.12.2018 21:59:13: Connected: dado(76561198044866508) Owner: 19
+09.12.2018 21:59:15: Connected (CLIENT_PING): dado(76561198044866508) Owner: 19, SteamName: DADO   [UpTime: 2h 26min 2s - ServerFPS: 42.4403]
+09.12.2018 22:03:54: Disconnected: dado(76561198044866508) Owner: 19, SteamName: DADO
+09.12.2018 22:05:56: Disconnected: Julius(76561198020201324) Owner: 15, SteamName: Netzouille La Couille
+09.12.2018 22:08:24: Disconnected: v1(76561198168988383) Owner: 7, SteamName: dadoprso76
+09.12.2018 22:10:06: Disconnected: Zero(76561198096016058) Owner: 17, SteamName: Zero
+09.12.2018 22:32:06: Connected (UID?): __SERVER__() Owner: 2

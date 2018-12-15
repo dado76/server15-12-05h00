@@ -1,0 +1,280 @@
+﻿14.12.2018 00:33:21: V69 (21-07-2017) =======================================================================================================
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Started @ 7865.46 : [FPS: 18.0587|PLAYERS: 4|THREADS: 16]
+14.12.2018 00:33:21: V69 (21-07-2017) =======================================================================================================
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 10 execVM-ed: 6 exec-ed: 0 execFSM-ed: 2
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 7865.46
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 7865.46
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 7865.46
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 7865.5
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 7865.5
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 7865.5
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 7865.5
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 7865.5
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>#line 1 ""exile_server\code\ExileServer_system_event_supplyBox_start.sqf""
+
+
+
+
+
+
+
+
+
+
+
+private[""_airpor","exile_server\code\ExileServer_system_event_supplyBox_start.sqf",true,43] @ 7865.5
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>#line 1 ""exile_server\code\ExileServer_system_event_earthQuake_start.sqf""
+
+
+
+
+
+
+
+
+
+
+
+private[""_i"", ""","exile_server\code\ExileServer_system_event_earthQuake_start.sqf",true,44] @ 7865.5
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active SQF: ["Zombie Brains v4.7","\ryanzombies\functions\fn_preInit.sqf [RyanZM_fnc_rzfunctionpreinit]",true,1044] @ 7865.5
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active SQF: ["Zombie Brains v4.7","\ryanzombies\functions\fn_preInit.sqf [RyanZM_fnc_rzfunctionpreinit]",true,1044] @ 7865.5
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active SQF: ["BIS_fnc_selectRandom","exilez_mod\scripts\TriggerLoop.sqf",true,108] @ 7865.5
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active SQF: ["Zombie Brains v4.7","\ryanzombies\functions\fn_preInit.sqf [RyanZM_fnc_rzfunctionpreinit]",true,1044] @ 7865.5
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active SQF: ["Zombie Brains v4.7","\ryanzombies\functions\fn_preInit.sqf [RyanZM_fnc_rzfunctionpreinit]",true,1044] @ 7865.56
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active SQF: ["Zombie Brains v4.7","ryanzombies\zombie.sqf",true,43] @ 7865.56
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-7865.56] @ 7865.56
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-7865.56] @ 7865.56
+14.12.2018 00:33:21: V69 (21-07-2017) [processReporter] Ended @ 7865.56
+14.12.2018 00:34:33: V69 (21-07-2017) =======================================================================================================
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Started @ 7937.06 : [FPS: 17.66|PLAYERS: 4|THREADS: 18]
+14.12.2018 00:34:33: V69 (21-07-2017) =======================================================================================================
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 11 execVM-ed: 7 exec-ed: 0 execFSM-ed: 2
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 7937.06
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 7937.06
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 7937.06
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 7937.13
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 7937.13
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 7937.13
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 7937.13
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 7937.13
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>#line 1 ""exile_server\code\ExileServer_system_event_supplyBox_start.sqf""
+
+
+
+
+
+
+
+
+
+
+
+private[""_airpor","exile_server\code\ExileServer_system_event_supplyBox_start.sqf",true,43] @ 7937.13
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>#line 1 ""exile_server\code\ExileServer_system_event_earthQuake_start.sqf""
+
+
+
+
+
+
+
+
+
+
+
+private[""_i"", ""","exile_server\code\ExileServer_system_event_earthQuake_start.sqf",true,44] @ 7937.13
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["Zombie Brains v4.7","\ryanzombies\functions\fn_preInit.sqf [RyanZM_fnc_rzfunctionpreinit]",true,1044] @ 7937.13
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["Zombie Brains v4.7","\ryanzombies\functions\fn_preInit.sqf [RyanZM_fnc_rzfunctionpreinit]",true,1044] @ 7937.13
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["BIS_fnc_selectRandom","exilez_mod\scripts\TriggerLoop.sqf",true,108] @ 7937.13
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["Zombie Brains v4.7","\ryanzombies\functions\fn_preInit.sqf [RyanZM_fnc_rzfunctionpreinit]",true,1044] @ 7937.13
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["Zombie Brains v4.7","\ryanzombies\functions\fn_preInit.sqf [RyanZM_fnc_rzfunctionpreinit]",true,1044] @ 7937.19
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["Zombie Brains v4.7","\ryanzombies\functions\fn_preInit.sqf [RyanZM_fnc_rzfunctionpreinit]",true,1044] @ 7937.19
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["BIS_fnc_selectRandom","exilez_mod\scripts\TriggerLoop.sqf",true,88] @ 7937.19
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active SQF: ["Zombie Brains v4.7","\ryanzombies\functions\fn_preInit.sqf [RyanZM_fnc_rzfunctionpreinit]",true,1044] @ 7937.19
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-7937.19] @ 7937.19
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-7937.19] @ 7937.19
+14.12.2018 00:34:33: V69 (21-07-2017) [processReporter] Ended @ 7937.19
+14.12.2018 00:35:35: V69 (21-07-2017) =======================================================================================================
+14.12.2018 00:35:35: V69 (21-07-2017) [processReporter] Started @ 7999.12 : [FPS: 22.8898|PLAYERS: 4|THREADS: 11]
+14.12.2018 00:35:35: V69 (21-07-2017) =======================================================================================================
+14.12.2018 00:35:35: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 10 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+14.12.2018 00:35:35: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 7999.17
+14.12.2018 00:35:35: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 7999.17
+14.12.2018 00:35:35: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 7999.17
+14.12.2018 00:35:35: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 7999.17
+14.12.2018 00:35:35: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 7999.17
+14.12.2018 00:35:35: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 7999.17
+14.12.2018 00:35:35: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 7999.17
+14.12.2018 00:35:35: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 7999.17
+14.12.2018 00:35:35: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>#line 1 ""exile_server\code\ExileServer_system_event_supplyBox_start.sqf""
+
+
+
+
+
+
+
+
+
+
+
+private[""_airpor","exile_server\code\ExileServer_system_event_supplyBox_start.sqf",true,43] @ 7999.17
+14.12.2018 00:35:35: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>#line 1 ""exile_server\code\ExileServer_system_event_earthQuake_start.sqf""
+
+
+
+
+
+
+
+
+
+
+
+private[""_i"", ""","exile_server\code\ExileServer_system_event_earthQuake_start.sqf",true,44] @ 7999.21
+14.12.2018 00:35:35: V69 (21-07-2017) [processReporter] Active SQF: ["BIS_fnc_selectRandom","exilez_mod\scripts\TriggerLoop.sqf",true,88] @ 7999.21
+14.12.2018 00:35:35: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-7999.21] @ 7999.21
+14.12.2018 00:35:35: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-7999.21] @ 7999.21
+14.12.2018 00:35:35: V69 (21-07-2017) [processReporter] Ended @ 7999.21
+14.12.2018 00:36:56: V69 (21-07-2017) =======================================================================================================
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Started @ 8079.49 : [FPS: 21.2483|PLAYERS: 4|THREADS: 14]
+14.12.2018 00:36:56: V69 (21-07-2017) =======================================================================================================
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 9 execVM-ed: 5 exec-ed: 0 execFSM-ed: 2
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 8079.49
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 8079.49
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 8079.54
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 8079.54
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 8079.54
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 8079.54
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 8079.54
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 8079.54
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>#line 1 ""exile_server\code\ExileServer_system_event_supplyBox_start.sqf""
+
+
+
+
+
+
+
+
+
+
+
+private[""_airpor","exile_server\code\ExileServer_system_event_supplyBox_start.sqf",true,43] @ 8079.54
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Active SQF: ["BIS_fnc_selectRandom","exilez_mod\scripts\TriggerLoop.sqf",true,88] @ 8079.54
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Active SQF: ["Zombie Brains v4.7","\ryanzombies\functions\fn_preInit.sqf [RyanZM_fnc_rzfunctionpreinit]",true,1044] @ 8079.54
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Active SQF: ["Zombie Brains v4.7","\ryanzombies\functions\fn_preInit.sqf [RyanZM_fnc_rzfunctionpreinit]",true,1044] @ 8079.54
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Active SQF: ["Zombie Brains v4.7","\ryanzombies\functions\fn_preInit.sqf [RyanZM_fnc_rzfunctionpreinit]",true,1044] @ 8079.54
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Active SQF: ["Zombie Brains v4.7","\ryanzombies\functions\fn_preInit.sqf [RyanZM_fnc_rzfunctionpreinit]",true,1044] @ 8079.59
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-8079.59] @ 8079.59
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-8079.59] @ 8079.59
+14.12.2018 00:36:56: V69 (21-07-2017) [processReporter] Ended @ 8079.59
+14.12.2018 00:37:56: V69 (21-07-2017) =======================================================================================================
+14.12.2018 00:37:56: V69 (21-07-2017) [processReporter] Started @ 8139.98 : [FPS: 24.2792|PLAYERS: 4|THREADS: 10]
+14.12.2018 00:37:56: V69 (21-07-2017) =======================================================================================================
+14.12.2018 00:37:56: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 9 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+14.12.2018 00:37:56: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 8140.03
+14.12.2018 00:37:56: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 8140.03
+14.12.2018 00:37:56: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 8140.03
+14.12.2018 00:37:56: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 8140.03
+14.12.2018 00:37:56: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 8140.03
+14.12.2018 00:37:56: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 8140.03
+14.12.2018 00:37:56: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 8140.03
+14.12.2018 00:37:56: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 8140.03
+14.12.2018 00:37:56: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>#line 1 ""exile_server\code\ExileServer_system_event_supplyBox_start.sqf""
+
+
+
+
+
+
+
+
+
+
+
+private[""_airpor","exile_server\code\ExileServer_system_event_supplyBox_start.sqf",true,43] @ 8140.03
+14.12.2018 00:37:56: V69 (21-07-2017) [processReporter] Active SQF: ["BIS_fnc_selectRandom","exilez_mod\scripts\TriggerLoop.sqf",true,88] @ 8140.03
+14.12.2018 00:37:56: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-8140.07] @ 8140.07
+14.12.2018 00:37:56: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-8140.07] @ 8140.07
+14.12.2018 00:37:56: V69 (21-07-2017) [processReporter] Ended @ 8140.07

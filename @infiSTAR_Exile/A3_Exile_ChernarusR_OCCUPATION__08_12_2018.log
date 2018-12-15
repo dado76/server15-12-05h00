@@ -1,0 +1,510 @@
+﻿08.12.2018 15:03:18: V69 (21-07-2017) =============================================================================================================
+08.12.2018 15:03:18: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 17.668
+08.12.2018 15:03:18: V69 (21-07-2017) =============================================================================================================
+08.12.2018 15:03:18: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 17.69
+08.12.2018 15:03:18: V69 (21-07-2017) [processReporter]:: Initialised at 17.69
+08.12.2018 15:03:18: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version June 8, 2017
+08.12.2018 15:03:18: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 17.69
+08.12.2018 15:04:04: V69 (21-07-2017) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+08.12.2018 15:04:04: V69 (21-07-2017) [OCCUPATION:LootCrates]:: worldname: ChernarusRedux crates to spawn: 2
+08.12.2018 15:04:05: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [4959.45,9090.86,0] with 2 guards
+08.12.2018 15:04:07: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [8759.57,13887.4,0] with 1 guards
+08.12.2018 15:04:22: V69 (21-07-2017) [OCCUPATION:HeliCrashes]:: Initialised at 80.509
+08.12.2018 15:04:22: V69 (21-07-2017) [OCCUPATION:HeliCrashes]::  worldname: ChernarusRedux crashes to spawn: 2
+08.12.2018 15:04:24: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 1 : Location [2439.64,10574.8,0]
+08.12.2018 15:04:24: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [2439.64,10574.8,0] with 2 guards
+08.12.2018 15:04:26: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 2 : Location [2354.97,7703.34,0]
+08.12.2018 15:04:26: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [2354.97,7703.34,0] with 1 guards
+08.12.2018 15:04:37: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:31 multipler is 4
+08.12.2018 15:04:52: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 110.562
+08.12.2018 15:05:26: V69 (21-07-2017) [OCCUPATION]:: threads added at 144.411
+08.12.2018 15:05:37: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:35 multipler is 4
+08.12.2018 15:05:52: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 170.697
+08.12.2018 15:10:49: V69 (21-07-2017) =============================================================================================================
+08.12.2018 15:10:49: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 19.611
+08.12.2018 15:10:49: V69 (21-07-2017) =============================================================================================================
+08.12.2018 15:10:50: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 19.633
+08.12.2018 15:10:50: V69 (21-07-2017) [processReporter]:: Initialised at 19.633
+08.12.2018 15:10:50: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version June 8, 2017
+08.12.2018 15:10:50: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 19.633
+08.12.2018 15:11:35: V69 (21-07-2017) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+08.12.2018 15:11:35: V69 (21-07-2017) [OCCUPATION:LootCrates]:: worldname: ChernarusRedux crates to spawn: 2
+08.12.2018 15:11:36: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [5015.78,8933.64,0] with 2 guards
+08.12.2018 15:14:04: V69 (21-07-2017) =============================================================================================================
+08.12.2018 15:14:04: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 20.383
+08.12.2018 15:14:04: V69 (21-07-2017) =============================================================================================================
+08.12.2018 15:14:04: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 20.404
+08.12.2018 15:14:04: V69 (21-07-2017) [processReporter]:: Initialised at 20.404
+08.12.2018 15:14:04: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version June 8, 2017
+08.12.2018 15:14:04: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 20.404
+08.12.2018 15:28:25: V69 (21-07-2017) =============================================================================================================
+08.12.2018 15:28:25: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 20.937
+08.12.2018 15:28:25: V69 (21-07-2017) =============================================================================================================
+08.12.2018 15:28:25: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 20.96
+08.12.2018 15:28:25: V69 (21-07-2017) [processReporter]:: Initialised at 20.96
+08.12.2018 15:28:25: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version June 8, 2017
+08.12.2018 15:28:25: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 20.982
+08.12.2018 15:36:32: V69 (21-07-2017) =============================================================================================================
+08.12.2018 15:36:32: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 20.42
+08.12.2018 15:36:32: V69 (21-07-2017) =============================================================================================================
+08.12.2018 15:36:32: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 20.464
+08.12.2018 15:36:32: V69 (21-07-2017) [processReporter]:: Initialised at 20.464
+08.12.2018 15:36:32: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version June 8, 2017
+08.12.2018 15:36:32: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 20.464
+08.12.2018 15:44:17: V69 (21-07-2017) =============================================================================================================
+08.12.2018 15:44:17: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 20.634
+08.12.2018 15:44:17: V69 (21-07-2017) =============================================================================================================
+08.12.2018 15:44:17: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 20.656
+08.12.2018 15:44:17: V69 (21-07-2017) [processReporter]:: Initialised at 20.656
+08.12.2018 15:44:17: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version June 8, 2017
+08.12.2018 15:44:17: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 20.656
+08.12.2018 15:45:02: V69 (21-07-2017) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+08.12.2018 15:45:02: V69 (21-07-2017) [OCCUPATION:LootCrates]:: worldname: ChernarusRedux crates to spawn: 2
+08.12.2018 15:45:05: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [2567.79,6719.1,0] with 1 guards
+08.12.2018 15:45:06: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [9297.97,2686.4,0] with 1 guards
+08.12.2018 15:45:21: V69 (21-07-2017) [OCCUPATION:HeliCrashes]:: Initialised at 84.504
+08.12.2018 15:45:21: V69 (21-07-2017) [OCCUPATION:HeliCrashes]::  worldname: ChernarusRedux crashes to spawn: 2
+08.12.2018 15:45:23: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 1 : Location [2059.31,9242.97,0]
+08.12.2018 15:45:23: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [2059.31,9242.97,0] with 2 guards
+08.12.2018 15:45:24: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 2 : Location [7875.29,12262.6,0]
+08.12.2018 15:45:24: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [7875.29,12262.6,0] with 2 guards
+08.12.2018 15:45:33: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:31 multipler is 4
+08.12.2018 15:45:48: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 111.246
+08.12.2018 15:46:25: V69 (21-07-2017) [OCCUPATION]:: threads added at 147.435
+08.12.2018 15:46:33: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:35 multipler is 4
+08.12.2018 15:46:48: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 171.343
+08.12.2018 15:47:35: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:39 multipler is 4
+08.12.2018 15:47:50: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 232.979
+08.12.2018 15:48:35: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:43 multipler is 4
+08.12.2018 15:48:50: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 293.079
+08.12.2018 15:49:35: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:47 multipler is 4
+08.12.2018 15:49:50: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 353.215
+08.12.2018 15:50:39: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:52 multipler is 4
+08.12.2018 15:50:44: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+08.12.2018 15:52:04: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [9625.85,13255.3,0]
+08.12.2018 16:28:18: V69 (21-07-2017) =============================================================================================================
+08.12.2018 16:28:18: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 20.329
+08.12.2018 16:28:18: V69 (21-07-2017) =============================================================================================================
+08.12.2018 16:28:18: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 20.374
+08.12.2018 16:28:18: V69 (21-07-2017) [processReporter]:: Initialised at 20.374
+08.12.2018 16:28:18: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version June 8, 2017
+08.12.2018 16:28:18: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 20.374
+08.12.2018 16:29:04: V69 (21-07-2017) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+08.12.2018 16:29:04: V69 (21-07-2017) [OCCUPATION:LootCrates]:: worldname: ChernarusRedux crates to spawn: 2
+08.12.2018 16:29:05: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [11610.4,4458.03,0] with 2 guards
+08.12.2018 16:29:07: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [5601.78,11827.8,0] with 1 guards
+08.12.2018 16:29:22: V69 (21-07-2017) [OCCUPATION:HeliCrashes]:: Initialised at 83.797
+08.12.2018 16:29:22: V69 (21-07-2017) [OCCUPATION:HeliCrashes]::  worldname: ChernarusRedux crashes to spawn: 2
+08.12.2018 16:29:24: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 1 : Location [4947.88,5191.42,0]
+08.12.2018 16:29:24: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [4947.88,5191.42,0] with 1 guards
+08.12.2018 16:29:25: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 2 : Location [2630.13,3603.99,0]
+08.12.2018 16:29:25: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [2630.13,3603.99,0] with 2 guards
+08.12.2018 16:29:35: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:31 multipler is 4
+08.12.2018 16:29:50: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 111.15
+08.12.2018 16:30:25: V69 (21-07-2017) [OCCUPATION]:: threads added at 146.801
+08.12.2018 16:30:35: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:35 multipler is 4
+08.12.2018 16:30:50: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 171.322
+08.12.2018 16:31:36: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:39 multipler is 4
+08.12.2018 16:31:51: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 232.978
+08.12.2018 16:36:55: V69 (21-07-2017) =============================================================================================================
+08.12.2018 16:36:55: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 22.067
+08.12.2018 16:36:55: V69 (21-07-2017) =============================================================================================================
+08.12.2018 16:36:55: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 22.11
+08.12.2018 16:36:55: V69 (21-07-2017) [processReporter]:: Initialised at 22.11
+08.12.2018 16:36:55: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version June 8, 2017
+08.12.2018 16:36:55: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 22.11
+08.12.2018 16:37:40: V69 (21-07-2017) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+08.12.2018 16:37:40: V69 (21-07-2017) [OCCUPATION:LootCrates]:: worldname: ChernarusRedux crates to spawn: 2
+08.12.2018 16:37:48: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [3562.78,7144.56,0] with 2 guards
+08.12.2018 16:37:50: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [3035.57,5134.16,0] with 1 guards
+08.12.2018 16:38:05: V69 (21-07-2017) [OCCUPATION:HeliCrashes]:: Initialised at 91.939
+08.12.2018 16:38:05: V69 (21-07-2017) [OCCUPATION:HeliCrashes]::  worldname: ChernarusRedux crashes to spawn: 2
+08.12.2018 16:38:07: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 1 : Location [10128.3,13285.7,0]
+08.12.2018 16:38:07: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [10128.3,13285.7,0] with 2 guards
+08.12.2018 16:38:08: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 2 : Location [13172,3139.38,0]
+08.12.2018 16:38:09: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [13172,3139.38,0] with 3 guards
+08.12.2018 16:38:11: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:31 multipler is 4
+08.12.2018 16:38:26: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 112.555
+08.12.2018 16:42:04: V69 (21-07-2017) =============================================================================================================
+08.12.2018 16:42:04: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 17.058
+08.12.2018 16:42:04: V69 (21-07-2017) =============================================================================================================
+08.12.2018 16:42:04: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 17.08
+08.12.2018 16:42:04: V69 (21-07-2017) [processReporter]:: Initialised at 17.08
+08.12.2018 16:42:04: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version June 8, 2017
+08.12.2018 16:42:04: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 17.08
+08.12.2018 16:42:50: V69 (21-07-2017) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+08.12.2018 16:42:50: V69 (21-07-2017) [OCCUPATION:LootCrates]:: worldname: ChernarusRedux crates to spawn: 2
+08.12.2018 16:42:51: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [3268.36,6264.56,0] with 1 guards
+08.12.2018 16:42:52: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [898.681,7835.58,0] with 1 guards
+08.12.2018 16:43:07: V69 (21-07-2017) [OCCUPATION:HeliCrashes]:: Initialised at 79.823
+08.12.2018 16:43:07: V69 (21-07-2017) [OCCUPATION:HeliCrashes]::  worldname: ChernarusRedux crashes to spawn: 2
+08.12.2018 16:43:09: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 1 : Location [3999.22,7335.79,0]
+08.12.2018 16:43:09: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [3999.22,7335.79,0] with 2 guards
+08.12.2018 16:43:10: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 2 : Location [630.792,8847.21,0]
+08.12.2018 16:43:11: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [630.792,8847.21,0] with 3 guards
+08.12.2018 16:43:24: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:31 multipler is 4
+08.12.2018 16:43:39: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 110.867
+08.12.2018 16:44:11: V69 (21-07-2017) [OCCUPATION]:: threads added at 142.809
+08.12.2018 16:44:24: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:35 multipler is 4
+08.12.2018 16:44:39: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 171.042
+08.12.2018 16:45:25: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:39 multipler is 4
+08.12.2018 16:45:41: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 232.704
+08.12.2018 16:46:26: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:43 multipler is 4
+08.12.2018 16:46:41: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 292.804
+08.12.2018 16:47:26: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:47 multipler is 4
+08.12.2018 16:47:41: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 352.931
+08.12.2018 16:48:27: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:51 multipler is 4
+08.12.2018 16:48:27: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+08.12.2018 16:52:27: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [9625.85,13255.3,0]
+08.12.2018 16:52:53: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [4539.68,10833.2,0]
+08.12.2018 16:53:25: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [10601.3,12407.5,0]
+08.12.2018 16:55:52: V69 (21-07-2017) =============================================================================================================
+08.12.2018 16:55:53: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 21.355
+08.12.2018 16:55:53: V69 (21-07-2017) =============================================================================================================
+08.12.2018 16:55:53: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 21.398
+08.12.2018 16:55:53: V69 (21-07-2017) [processReporter]:: Initialised at 21.398
+08.12.2018 16:55:53: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version June 8, 2017
+08.12.2018 16:55:53: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 21.398
+08.12.2018 16:56:37: V69 (21-07-2017) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+08.12.2018 16:56:38: V69 (21-07-2017) [OCCUPATION:LootCrates]:: worldname: ChernarusRedux crates to spawn: 2
+08.12.2018 16:56:39: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [2008.33,12022.3,0] with 1 guards
+08.12.2018 16:56:40: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [3256.97,4372.17,0] with 1 guards
+08.12.2018 16:56:55: V69 (21-07-2017) [OCCUPATION:HeliCrashes]:: Initialised at 84.097
+08.12.2018 16:56:55: V69 (21-07-2017) [OCCUPATION:HeliCrashes]::  worldname: ChernarusRedux crashes to spawn: 2
+08.12.2018 16:56:58: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 1 : Location [7623.39,9082.96,0]
+08.12.2018 16:56:58: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [7623.39,9082.96,0] with 3 guards
+08.12.2018 16:57:01: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 2 : Location [5386.58,10363,0]
+08.12.2018 16:57:01: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [5386.58,10363,0] with 1 guards
+08.12.2018 16:57:12: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:31 multipler is 4
+08.12.2018 16:57:27: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 115.976
+08.12.2018 16:58:02: V69 (21-07-2017) [OCCUPATION]:: threads added at 150.164
+08.12.2018 16:58:12: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:35 multipler is 4
+08.12.2018 16:58:27: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 176.109
+08.12.2018 16:59:14: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:39 multipler is 4
+08.12.2018 16:59:29: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 237.739
+08.12.2018 17:00:14: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:43 multipler is 4
+08.12.2018 17:00:29: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 297.829
+08.12.2018 17:01:14: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:47 multipler is 4
+08.12.2018 17:01:29: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 357.953
+08.12.2018 17:02:18: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:52 multipler is 4
+08.12.2018 17:02:18: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+08.12.2018 17:17:10: V69 (21-07-2017) =============================================================================================================
+08.12.2018 17:17:10: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 17.91
+08.12.2018 17:17:10: V69 (21-07-2017) =============================================================================================================
+08.12.2018 17:17:11: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 17.933
+08.12.2018 17:17:11: V69 (21-07-2017) [processReporter]:: Initialised at 17.933
+08.12.2018 17:17:11: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version June 8, 2017
+08.12.2018 17:17:11: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 17.933
+08.12.2018 17:17:56: V69 (21-07-2017) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+08.12.2018 17:17:56: V69 (21-07-2017) [OCCUPATION:LootCrates]:: worldname: ChernarusRedux crates to spawn: 2
+08.12.2018 17:17:58: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [7087.04,8447.05,0] with 2 guards
+08.12.2018 17:18:01: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [8798.69,8211.07,0] with 1 guards
+08.12.2018 17:18:16: V69 (21-07-2017) [OCCUPATION:HeliCrashes]:: Initialised at 82.761
+08.12.2018 17:18:16: V69 (21-07-2017) [OCCUPATION:HeliCrashes]::  worldname: ChernarusRedux crashes to spawn: 2
+08.12.2018 17:18:17: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 1 : Location [5547.24,11342.9,0]
+08.12.2018 17:18:17: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [5547.24,11342.9,0] with 1 guards
+08.12.2018 17:18:18: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 2 : Location [3867.53,7469.3,0]
+08.12.2018 17:18:18: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [3867.53,7469.3,0] with 2 guards
+08.12.2018 17:18:29: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:31 multipler is 4
+08.12.2018 17:18:44: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 110.881
+08.12.2018 17:19:18: V69 (21-07-2017) [OCCUPATION]:: threads added at 145.465
+08.12.2018 17:19:29: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:35 multipler is 4
+08.12.2018 17:19:44: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 170.911
+08.12.2018 17:20:33: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:39 multipler is 4
+08.12.2018 17:20:48: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 235.055
+08.12.2018 17:21:33: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:43 multipler is 4
+08.12.2018 17:21:48: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 295.152
+08.12.2018 17:22:33: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:47 multipler is 4
+08.12.2018 17:22:48: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 355.242
+08.12.2018 17:23:37: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:52 multipler is 4
+08.12.2018 17:23:38: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+08.12.2018 17:23:56: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4463.61,9451,-3.05176e-005]
+08.12.2018 17:25:06: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 2-3:1 _repairStatus false
+08.12.2018 17:25:06: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 2-3:1 _repairStatus false
+08.12.2018 17:25:06: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 2-3:1 _repairStatus true
+08.12.2018 17:25:06: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 2-3:1 repairing(true) vehicle at 492.917
+08.12.2018 17:25:13: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 2-3:1 finished repairing vehicle O Alpha 2-3:1 at 499.881
+08.12.2018 17:25:32: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [8188.8,6928.82,0]
+08.12.2018 17:26:30: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [7577.59,5863.92,-0.0882416]
+08.12.2018 17:35:03: V69 (21-07-2017) =============================================================================================================
+08.12.2018 17:35:03: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 20.79
+08.12.2018 17:35:03: V69 (21-07-2017) =============================================================================================================
+08.12.2018 17:35:03: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 20.834
+08.12.2018 17:35:03: V69 (21-07-2017) [processReporter]:: Initialised at 20.834
+08.12.2018 17:35:03: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version June 8, 2017
+08.12.2018 17:35:03: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 20.834
+08.12.2018 17:35:48: V69 (21-07-2017) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+08.12.2018 17:35:48: V69 (21-07-2017) [OCCUPATION:LootCrates]:: worldname: ChernarusRedux crates to spawn: 2
+08.12.2018 17:35:50: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [11942.9,10076.2,0] with 2 guards
+08.12.2018 17:35:51: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [4010.87,7623.42,0] with 1 guards
+08.12.2018 17:36:07: V69 (21-07-2017) [OCCUPATION:HeliCrashes]:: Initialised at 84.513
+08.12.2018 17:36:07: V69 (21-07-2017) [OCCUPATION:HeliCrashes]::  worldname: ChernarusRedux crashes to spawn: 2
+08.12.2018 17:36:11: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 1 : Location [4883.05,10891.8,0]
+08.12.2018 17:36:11: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [4883.05,10891.8,0] with 1 guards
+08.12.2018 17:36:13: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 2 : Location [10287.4,7635.34,0]
+08.12.2018 17:36:13: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [10287.4,7635.34,0] with 3 guards
+08.12.2018 17:36:19: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:31 multipler is 4
+08.12.2018 17:36:34: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 111.747
+08.12.2018 17:37:13: V69 (21-07-2017) [OCCUPATION]:: threads added at 150.616
+08.12.2018 17:37:19: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:35 multipler is 4
+08.12.2018 17:37:39: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 176.637
+08.12.2018 17:38:20: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:39 multipler is 4
+08.12.2018 17:38:40: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 237.742
+08.12.2018 17:39:20: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:43 multipler is 4
+08.12.2018 17:39:40: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 297.756
+08.12.2018 17:40:20: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:47 multipler is 4
+08.12.2018 17:40:40: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 357.867
+08.12.2018 17:41:21: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:51 multipler is 4
+08.12.2018 17:41:31: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+08.12.2018 17:43:43: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [7583.38,8371.59,3.05176e-005]
+08.12.2018 17:46:22: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 2-3:1 _repairStatus false
+08.12.2018 17:46:22: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 2-3:1 _repairStatus false
+08.12.2018 17:46:22: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 2-3:1 _repairStatus true
+08.12.2018 17:46:22: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 2-3:1 repairing(true) vehicle at 699.085
+08.12.2018 17:46:28: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 2-3:1 finished repairing vehicle O Alpha 2-3:1 at 706.054
+08.12.2018 17:48:20: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [2686.54,7272.24,0]
+08.12.2018 17:52:06: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4551.3,5692.81,-3.05176e-005]
+08.12.2018 19:10:06: V69 (21-07-2017) =============================================================================================================
+08.12.2018 19:10:06: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 21.762
+08.12.2018 19:10:06: V69 (21-07-2017) =============================================================================================================
+08.12.2018 19:10:06: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 21.784
+08.12.2018 19:10:06: V69 (21-07-2017) [processReporter]:: Initialised at 21.784
+08.12.2018 19:10:06: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version June 8, 2017
+08.12.2018 19:10:06: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 21.784
+08.12.2018 19:10:51: V69 (21-07-2017) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+08.12.2018 19:10:51: V69 (21-07-2017) [OCCUPATION:LootCrates]:: worldname: ChernarusRedux crates to spawn: 2
+08.12.2018 19:10:52: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [2103.56,9525.86,0] with 2 guards
+08.12.2018 19:10:54: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [4479.5,7643.05,0] with 1 guards
+08.12.2018 19:11:09: V69 (21-07-2017) [OCCUPATION:HeliCrashes]:: Initialised at 84.396
+08.12.2018 19:11:09: V69 (21-07-2017) [OCCUPATION:HeliCrashes]::  worldname: ChernarusRedux crashes to spawn: 2
+08.12.2018 19:11:11: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 1 : Location [7602.53,3419.88,0]
+08.12.2018 19:11:11: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [7602.53,3419.88,0] with 2 guards
+08.12.2018 19:11:12: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 2 : Location [10271,7958.16,0]
+08.12.2018 19:11:12: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [10271,7958.16,0] with 2 guards
+08.12.2018 19:11:22: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:31 multipler is 4
+08.12.2018 19:11:37: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 112.105
+08.12.2018 19:12:12: V69 (21-07-2017) [OCCUPATION]:: threads added at 147.374
+08.12.2018 19:12:22: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:35 multipler is 4
+08.12.2018 19:12:42: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 177.091
+08.12.2018 19:13:23: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:39 multipler is 4
+08.12.2018 19:13:43: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 238.261
+08.12.2018 19:14:23: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:43 multipler is 4
+08.12.2018 19:14:43: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 298.418
+08.12.2018 19:15:23: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:47 multipler is 4
+08.12.2018 19:15:43: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 358.545
+08.12.2018 19:16:24: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:51 multipler is 4
+08.12.2018 19:16:29: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+08.12.2018 19:21:12: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [2701.65,7282.7,3.05176e-005]
+08.12.2018 19:25:54: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [10558.2,12403.9,-3.05176e-005]
+08.12.2018 19:27:42: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [4478.5,9461.76,0]
+08.12.2018 19:28:22: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [2765.86,7306.91,0]
+08.12.2018 19:28:22: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 2-4:1 _repairStatus false
+08.12.2018 19:28:22: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 2-4:1 _repairStatus false
+08.12.2018 19:28:22: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Not enough damage to disable O Alpha 2-4:1, driver is O Alpha 2-4:1 at 1117.19
+08.12.2018 19:28:22: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 2-4:1 _repairStatus false
+08.12.2018 19:28:54: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [2686.54,7272.24,0]
+08.12.2018 19:29:09: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4481.34,9464.47,0]
+08.12.2018 19:29:45: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [11083.5,9310.97,-7.62939e-006]
+08.12.2018 19:30:21: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-1:1 _repairStatus false
+08.12.2018 19:30:21: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 3-1:1 _repairStatus false
+08.12.2018 19:30:21: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 3-1:1 _repairStatus true
+08.12.2018 19:30:21: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-1:1 repairing(true) vehicle at 1236.32
+08.12.2018 19:30:28: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-1:1 finished repairing vehicle O Alpha 3-1:1 at 1243.28
+08.12.2018 19:30:42: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [3445.23,5538.74,0]
+08.12.2018 19:30:56: V69 (21-07-2017) [OCCUPATION:Vehicle]:: No replacement Driver found for vehicle O Alpha 3-5:1
+08.12.2018 19:31:29: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4532.28,8814.09,0]
+08.12.2018 19:31:52: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [4377.99,9378.4,0]
+08.12.2018 19:32:07: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 1-5:1 _repairStatus false
+08.12.2018 19:32:07: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 1-5:1 _repairStatus false
+08.12.2018 19:32:07: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 1-5:1 _repairStatus true
+08.12.2018 19:32:07: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 1-5:1 repairing(true) vehicle at 1342.52
+08.12.2018 19:32:14: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 1-5:1 finished repairing vehicle O Alpha 1-5:1 at 1349.49
+08.12.2018 19:33:15: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-5:1 _repairStatus false
+08.12.2018 19:33:15: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 3-5:1 _repairStatus false
+08.12.2018 19:33:15: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Not enough damage to disable O Alpha 3-5:1, driver is O Alpha 3-5:1 at 1410.36
+08.12.2018 19:33:15: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 3-5:1 _repairStatus false
+08.12.2018 19:33:15: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-1:1 _repairStatus false
+08.12.2018 19:33:15: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 3-1:1 _repairStatus false
+08.12.2018 19:33:15: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 3-1:1 _repairStatus true
+08.12.2018 19:33:15: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-1:1 repairing(true) vehicle at 1410.38
+08.12.2018 19:33:22: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-1:1 finished repairing vehicle O Alpha 3-1:1 at 1417.34
+08.12.2018 19:35:15: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [10543.3,12405.6,0]
+08.12.2018 19:39:09: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 2-5:1 _repairStatus false
+08.12.2018 19:39:09: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 2-5:1 _repairStatus false
+08.12.2018 19:39:09: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Not enough damage to disable O Alpha 2-5:1, driver is O Alpha 2-5:1 at 1764.2
+08.12.2018 19:39:09: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 2-5:1 _repairStatus false
+08.12.2018 19:39:26: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [4532.28,8814.09,0]
+08.12.2018 19:39:56: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-2:1 _repairStatus false
+08.12.2018 19:39:56: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 3-2:1 _repairStatus false
+08.12.2018 19:39:56: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 3-2:1 _repairStatus true
+08.12.2018 19:39:56: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-2:1 repairing(true) vehicle at 1811.07
+08.12.2018 19:40:03: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-2:1 finished repairing vehicle O Alpha 3-2:1 at 1818.04
+08.12.2018 20:01:53: V69 (21-07-2017) =============================================================================================================
+08.12.2018 20:01:53: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 56.052
+08.12.2018 20:01:53: V69 (21-07-2017) =============================================================================================================
+08.12.2018 20:01:53: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 56.136
+08.12.2018 20:01:53: V69 (21-07-2017) [processReporter]:: Initialised at 56.136
+08.12.2018 20:01:53: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version June 8, 2017
+08.12.2018 20:01:53: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 56.166
+08.12.2018 20:02:39: V69 (21-07-2017) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+08.12.2018 20:02:39: V69 (21-07-2017) [OCCUPATION:LootCrates]:: worldname: ChernarusRedux crates to spawn: 2
+08.12.2018 20:02:41: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [11082.9,7927.07,0] with 1 guards
+08.12.2018 20:02:44: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [6099.38,13550.4,0] with 2 guards
+08.12.2018 20:02:59: V69 (21-07-2017) [OCCUPATION:HeliCrashes]:: Initialised at 121.328
+08.12.2018 20:02:59: V69 (21-07-2017) [OCCUPATION:HeliCrashes]::  worldname: ChernarusRedux crashes to spawn: 2
+08.12.2018 20:03:01: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 1 : Location [12193.7,12006.1,0]
+08.12.2018 20:03:02: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [12193.7,12006.1,0] with 2 guards
+08.12.2018 20:03:04: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 2 : Location [5594.68,11185.8,0]
+08.12.2018 20:03:05: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [5594.68,11185.8,0] with 3 guards
+08.12.2018 20:03:13: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:32 multipler is 4
+08.12.2018 20:03:28: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 149.719
+08.12.2018 20:04:06: V69 (21-07-2017) [OCCUPATION]:: threads added at 187.436
+08.12.2018 20:04:13: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:36 multipler is 4
+08.12.2018 20:04:34: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 216.174
+08.12.2018 20:05:15: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:40 multipler is 4
+08.12.2018 20:05:35: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 276.364
+08.12.2018 20:06:15: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:44 multipler is 4
+08.12.2018 20:06:35: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 336.527
+08.12.2018 20:07:15: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:48 multipler is 4
+08.12.2018 20:07:36: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 397.702
+08.12.2018 20:08:16: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:52 multipler is 4
+08.12.2018 20:08:21: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+08.12.2018 20:09:24: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [11066.8,9305.81,0]
+08.12.2018 20:15:18: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [11066.8,9305.81,0]
+08.12.2018 20:15:33: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [4478.5,9461.76,0]
+08.12.2018 20:16:05: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 2-4:1 REMOTE _repairStatus false
+08.12.2018 20:16:05: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 2-4:1 REMOTE _repairStatus false
+08.12.2018 20:16:05: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 2-4:1 REMOTE _repairStatus true
+08.12.2018 20:16:05: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 2-4:1 REMOTE repairing(true) vehicle at 905.183
+08.12.2018 20:16:12: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 2-4:1 REMOTE finished repairing vehicle 5722d600# 1565915: offroad_01_unarmed_f.p3d REMOTE at 912.194
+08.12.2018 20:18:06: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 1-5:1 _repairStatus false
+08.12.2018 20:18:06: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 1-5:1 _repairStatus false
+08.12.2018 20:18:06: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Not enough damage to disable O Alpha 1-5:1, driver is O Alpha 1-5:1 at 1026.6
+08.12.2018 20:18:06: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 1-5:1 _repairStatus false
+08.12.2018 20:18:49: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [8427.48,8664.84,-3.05176e-005]
+08.12.2018 20:19:25: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [3517.65,5507.24,-3.05176e-005]
+08.12.2018 20:20:50: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4463.61,9451,-3.05176e-005]
+08.12.2018 20:21:12: V69 (21-07-2017) [OCCUPATION:Vehicle]:: No replacement Driver found for vehicle O Alpha 3-3:1
+08.12.2018 20:21:32: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 2-6:1 _repairStatus false
+08.12.2018 20:21:32: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 2-6:1 _repairStatus false
+08.12.2018 20:21:32: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 2-6:1 _repairStatus true
+08.12.2018 20:21:32: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 2-6:1 repairing(true) vehicle at 1231.77
+08.12.2018 20:21:33: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-1:1 _repairStatus false
+08.12.2018 20:21:33: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 3-1:1 _repairStatus false
+08.12.2018 20:21:33: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 3-1:1 _repairStatus true
+08.12.2018 20:21:33: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-1:1 repairing(true) vehicle at 1233.57
+08.12.2018 20:21:39: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 2-6:1 finished repairing vehicle O Alpha 2-6:1 at 1238.86
+08.12.2018 20:21:39: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle 5722d600# 1565915: offroad_01_unarmed_f.p3d REMOTE _repairStatus false
+08.12.2018 20:21:39: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle 5722d600# 1565915: offroad_01_unarmed_f.p3d REMOTE _repairStatus false
+08.12.2018 20:21:41: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-1:1 finished repairing vehicle O Alpha 3-1:1 at 1240.65
+08.12.2018 20:26:19: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [8433.81,8670.73,-0.042572]
+08.12.2018 20:28:54: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 1-4:1 _repairStatus false
+08.12.2018 20:28:54: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 1-4:1 _repairStatus false
+08.12.2018 20:28:54: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 1-4:1 _repairStatus true
+08.12.2018 20:28:54: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 1-4:1 repairing(true) vehicle at 1673.64
+08.12.2018 20:29:01: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 1-4:1 finished repairing vehicle O Alpha 1-4:1 at 1680.59
+08.12.2018 20:32:13: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [3863.92,7582.84,0]
+08.12.2018 20:32:35: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [2765.86,7306.91,0]
+08.12.2018 20:36:14: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [2765.86,7306.91,0]
+08.12.2018 20:37:47: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [4539.68,10833.2,0]
+08.12.2018 20:39:13: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-3:1 _repairStatus false
+08.12.2018 20:39:13: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 3-3:1 _repairStatus false
+08.12.2018 20:39:13: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 3-3:1 _repairStatus true
+08.12.2018 20:39:13: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-3:1 repairing(true) vehicle at 2292.26
+08.12.2018 20:39:20: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-3:1 finished repairing vehicle O Alpha 3-3:1 at 2299.3
+08.12.2018 20:39:44: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [4532.28,8814.09,0]
+08.12.2018 20:40:01: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-6:1 REMOTE _repairStatus false
+08.12.2018 20:40:01: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 3-6:1 REMOTE _repairStatus false
+08.12.2018 20:40:01: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 3-6:1 REMOTE _repairStatus true
+08.12.2018 20:40:01: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-6:1 REMOTE repairing(true) vehicle at 2340.76
+08.12.2018 20:40:09: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-6:1 REMOTE finished repairing vehicle 387ec100# 1571788: offroad_02_f.p3d REMOTE at 2347.83
+08.12.2018 20:43:13: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [4479.23,9462.19,0.0615234]
+08.12.2018 20:44:11: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-1:1 REMOTE _repairStatus false
+08.12.2018 20:44:11: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 3-1:1 REMOTE _repairStatus false
+08.12.2018 20:44:11: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 3-1:1 REMOTE _repairStatus true
+08.12.2018 20:44:11: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 4-1:1 REMOTE _repairStatus false
+08.12.2018 20:44:11: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 4-1:1 REMOTE _repairStatus false
+08.12.2018 20:44:11: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 4-1:1 REMOTE _repairStatus true
+08.12.2018 20:44:11: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-1:1 REMOTE repairing(true) vehicle at 2589.42
+08.12.2018 20:44:11: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 4-1:1 REMOTE repairing(true) vehicle at 2589.42
+08.12.2018 20:44:17: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-1:1 REMOTE finished repairing vehicle 7c69ab00# 1568203: offroad_02_f.p3d REMOTE at 2596.45
+08.12.2018 20:44:17: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 4-1:1 REMOTE finished repairing vehicle 5699eb00# 1573145: offroad_02_f.p3d REMOTE at 2596.51
+08.12.2018 20:50:01: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [4532.28,8814.09,0]
+08.12.2018 20:53:52: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [11066.8,9305.81,0]
+08.12.2018 20:58:08: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [7236.27,8303.43,0]
+08.12.2018 21:05:29: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_LSV_01_unarmed_black_F spawned @ [8670.9,11176.1,0]
+08.12.2018 21:07:02: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 4-4:1 REMOTE _repairStatus false
+08.12.2018 21:07:02: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 4-4:1 REMOTE _repairStatus false
+08.12.2018 21:07:02: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 4-4:1 REMOTE _repairStatus true
+08.12.2018 21:07:02: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 4-4:1 REMOTE repairing(true) vehicle at 3888.69
+08.12.2018 21:07:09: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 4-4:1 REMOTE finished repairing vehicle 56cbab00# 1578078: offroad_02_f.p3d REMOTE at 3895.78
+08.12.2018 21:07:49: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [3863.92,7582.84,0]
+08.12.2018 21:08:24: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4796.97,7773.57,0]
+08.12.2018 21:09:09: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4478.5,9461.76,0]
+08.12.2018 21:10:02: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Bravo 1-1:1 REMOTE _repairStatus false
+08.12.2018 21:10:02: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Bravo 1-1:1 REMOTE _repairStatus false
+08.12.2018 21:10:02: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Bravo 1-1:1 REMOTE _repairStatus true
+08.12.2018 21:10:02: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Bravo 1-1:1 REMOTE repairing(true) vehicle at 4068.97
+08.12.2018 21:10:10: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Bravo 1-1:1 REMOTE finished repairing vehicle 56cb8100# 1583060: offroad_02_f.p3d REMOTE at 4075.99
+08.12.2018 21:10:38: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle O_T_LSV_02_unarmed_black_F spawned @ [11083.5,9310.97,-7.62939e-006]
+08.12.2018 21:10:39: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 4-6:1 REMOTE _repairStatus false
+08.12.2018 21:10:39: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 4-6:1 REMOTE _repairStatus false
+08.12.2018 21:10:39: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 4-6:1 REMOTE _repairStatus true
+08.12.2018 21:10:39: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 4-6:1 REMOTE repairing(true) vehicle at 4105.05
+08.12.2018 21:10:46: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 4-6:1 REMOTE finished repairing vehicle 56726b00# 1582658: offroad_02_f.p3d REMOTE at 4112.16
+08.12.2018 21:11:04: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [11083.5,9310.97,-7.62939e-006]
+08.12.2018 21:11:48: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 4-3:1 REMOTE _repairStatus false
+08.12.2018 21:11:48: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 4-3:1 REMOTE _repairStatus false
+08.12.2018 21:11:48: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Not enough damage to disable O Alpha 4-3:1 REMOTE, driver is O Alpha 4-3:1 REMOTE at 4173.49
+08.12.2018 21:11:48: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 4-3:1 REMOTE _repairStatus false
+08.12.2018 21:12:05: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [4463.61,9451,-3.05176e-005]
+08.12.2018 21:12:42: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [4478.5,9461.76,0]
+08.12.2018 21:12:57: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4674.35,7246.96,3.05176e-005]
+08.12.2018 21:13:09: V69 (21-07-2017) [OCCUPATION:Vehicle] End check 23 currently active (max 25) @ 4254.87
+08.12.2018 21:14:05: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 20:12 multipler is 24
+08.12.2018 21:14:05: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4309.89
+08.12.2018 21:14:05: V69 (21-07-2017) [OCCUPATION:Sky] Started
+08.12.2018 21:14:10: V69 (21-07-2017) [OCCUPATION:Sky] Running
+08.12.2018 21:14:10: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 4314
+08.12.2018 21:14:22: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 4326.18
+08.12.2018 21:14:23: V69 (21-07-2017) [OCCUPATION:Unstick]:: Air: O Bravo 2-2:1 is active
+08.12.2018 21:14:25: V69 (21-07-2017) [OCCUPATION:Unstick]:: Air: O Bravo 2-2:1 is too close to a map marker, redirecting destination
+08.12.2018 21:14:25: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: 5722eb00# 1567516: offroad_02_f.p3d REMOTE is active
+08.12.2018 21:14:28: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: 5bdec100# 1569559: offroad_02_f.p3d REMOTE is active
+08.12.2018 21:14:30: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 1-4:1 is active
+08.12.2018 21:14:32: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 2-6:1 is active
+08.12.2018 21:14:34: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: 7c69ab00# 1568203: offroad_02_f.p3d REMOTE is active
+08.12.2018 21:14:36: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 3-2:1 is active
+08.12.2018 21:14:38: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+08.12.2018 21:14:40: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+08.12.2018 21:14:40: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [2765.8,7306.9,0.0012207] @ 4344.38
+08.12.2018 21:14:41: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (C_Offroad_02_unarmed_F) was stuck and was moved from [2765.8,7306.9,0.0012207] to [2768.5,7301.5,0] resetting patrol around point [2765.86,7306.91,0] @ 4344.96
+08.12.2018 21:14:44: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+08.12.2018 21:14:46: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: 387ec100# 1571788: offroad_02_f.p3d REMOTE is active
+08.12.2018 21:14:48: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 4-1:2 is active
+08.12.2018 21:14:50: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 4-2:1 REMOTE is active
+08.12.2018 21:14:52: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 4-3:1 REMOTE is active
+08.12.2018 21:14:54: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: 56cbab00# 1578078: offroad_02_f.p3d REMOTE is active
+08.12.2018 21:14:57: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 4-5:1 is active
+08.12.2018 21:14:59: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: 56726b00# 1582658: offroad_02_f.p3d REMOTE is active
+08.12.2018 21:15:01: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: 56cb8100# 1583060: offroad_02_f.p3d REMOTE is active
+08.12.2018 21:15:04: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 1-2:1 is active
+08.12.2018 21:15:06: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 1-3:1 is active
+08.12.2018 21:15:08: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 1-4:1 is active
+08.12.2018 21:15:10: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 1-5:1 is active
+08.12.2018 21:15:12: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 1-6:1 is active
+08.12.2018 21:15:14: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 2-1:1 is active
+08.12.2018 21:15:16: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 4379.43
+08.12.2018 21:15:21: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 20:42 multipler is 24
+08.12.2018 21:15:21: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4384.6
+08.12.2018 21:16:25: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 21:8 multipler is 24
+08.12.2018 21:16:25: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4446.85
+08.12.2018 21:17:31: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 21:34 multipler is 24
+08.12.2018 21:17:31: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4511.36
+08.12.2018 21:18:16: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+08.12.2018 21:20:18: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Bravo 1-4:1 _repairStatus false
+08.12.2018 21:20:18: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Bravo 1-4:1 _repairStatus false
+08.12.2018 21:20:18: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Not enough damage to disable O Bravo 1-4:1, driver is O Bravo 1-4:1 at 4671.88
+08.12.2018 21:20:18: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Bravo 1-4:1 _repairStatus false
+08.12.2018 21:20:33: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [10543.3,12405.6,0]
+08.12.2018 21:27:34: V69 (21-07-2017) [OCCUPATION:Vehicle]:: No replacement Driver found for vehicle a74b8100# 1584283: offroad_01_unarmed_f.p3d

@@ -1,0 +1,699 @@
+﻿15.12.2018 01:38:58: V69 (21-07-2017) =======================================================================================================
+15.12.2018 01:38:58: V69 (21-07-2017) [processReporter] Started @ 114.713 : [FPS: 50.3145|PLAYERS: 1|THREADS: 9]
+15.12.2018 01:38:58: V69 (21-07-2017) =======================================================================================================
+15.12.2018 01:38:58: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 2 exec-ed: 0 execFSM-ed: 2
+15.12.2018 01:38:58: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 114.713
+15.12.2018 01:38:58: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 114.713
+15.12.2018 01:38:58: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 114.713
+15.12.2018 01:38:58: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 114.733
+15.12.2018 01:38:58: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 114.733
+15.12.2018 01:38:58: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 114.733
+15.12.2018 01:38:58: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 114.733
+15.12.2018 01:38:58: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 114.733
+15.12.2018 01:38:58: V69 (21-07-2017) [processReporter] Active SQF: ["BIS_fnc_sortNum","x\addons\a3_exile_occupation\scripts\startOccupation.sqf",true,85] @ 114.733
+15.12.2018 01:38:58: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-114.733] @ 114.733
+15.12.2018 01:38:58: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-114.733] @ 114.733
+15.12.2018 01:38:58: V69 (21-07-2017) [processReporter] Ended @ 114.733
+15.12.2018 01:39:59: V69 (21-07-2017) =======================================================================================================
+15.12.2018 01:39:59: V69 (21-07-2017) [processReporter] Started @ 176.49 : [FPS: 49.6894|PLAYERS: 1|THREADS: 9]
+15.12.2018 01:39:59: V69 (21-07-2017) =======================================================================================================
+15.12.2018 01:39:59: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 2 exec-ed: 0 execFSM-ed: 2
+15.12.2018 01:39:59: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 176.49
+15.12.2018 01:39:59: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 176.49
+15.12.2018 01:39:59: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 176.49
+15.12.2018 01:39:59: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 176.51
+15.12.2018 01:39:59: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 176.51
+15.12.2018 01:39:59: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 176.51
+15.12.2018 01:39:59: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 176.51
+15.12.2018 01:39:59: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 176.51
+15.12.2018 01:39:59: V69 (21-07-2017) [processReporter] Active SQF: ["BIS_fnc_sortNum","x\addons\a3_exile_occupation\scripts\startOccupation.sqf",true,130] @ 176.51
+15.12.2018 01:39:59: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-176.51] @ 176.51
+15.12.2018 01:39:59: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-176.51] @ 176.51
+15.12.2018 01:39:59: V69 (21-07-2017) [processReporter] Ended @ 176.51
+15.12.2018 01:41:01: V69 (21-07-2017) =======================================================================================================
+15.12.2018 01:41:01: V69 (21-07-2017) [processReporter] Started @ 238.029 : [FPS: 49.8442|PLAYERS: 1|THREADS: 8]
+15.12.2018 01:41:01: V69 (21-07-2017) =======================================================================================================
+15.12.2018 01:41:01: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 01:41:01: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 238.029
+15.12.2018 01:41:01: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 238.029
+15.12.2018 01:41:01: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 238.029
+15.12.2018 01:41:01: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 238.029
+15.12.2018 01:41:01: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 238.051
+15.12.2018 01:41:01: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 238.051
+15.12.2018 01:41:01: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 238.051
+15.12.2018 01:41:01: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 238.051
+15.12.2018 01:41:01: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-238.051] @ 238.051
+15.12.2018 01:41:01: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-238.051] @ 238.051
+15.12.2018 01:41:01: V69 (21-07-2017) [processReporter] Ended @ 238.051
+15.12.2018 01:42:01: V69 (21-07-2017) =======================================================================================================
+15.12.2018 01:42:01: V69 (21-07-2017) [processReporter] Started @ 298.11 : [FPS: 46.9208|PLAYERS: 1|THREADS: 8]
+15.12.2018 01:42:01: V69 (21-07-2017) =======================================================================================================
+15.12.2018 01:42:01: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 01:42:01: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 298.11
+15.12.2018 01:42:01: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 298.133
+15.12.2018 01:42:01: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 298.133
+15.12.2018 01:42:01: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 298.133
+15.12.2018 01:42:01: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 298.133
+15.12.2018 01:42:01: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 298.133
+15.12.2018 01:42:01: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 298.133
+15.12.2018 01:42:01: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 298.133
+15.12.2018 01:42:01: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-298.133] @ 298.133
+15.12.2018 01:42:01: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-298.133] @ 298.133
+15.12.2018 01:42:01: V69 (21-07-2017) [processReporter] Ended @ 298.133
+15.12.2018 01:43:02: V69 (21-07-2017) =======================================================================================================
+15.12.2018 01:43:02: V69 (21-07-2017) [processReporter] Started @ 358.315 : [FPS: 45.8453|PLAYERS: 1|THREADS: 8]
+15.12.2018 01:43:02: V69 (21-07-2017) =======================================================================================================
+15.12.2018 01:43:02: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 01:43:02: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 358.315
+15.12.2018 01:43:02: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 358.343
+15.12.2018 01:43:02: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 358.343
+15.12.2018 01:43:02: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 358.343
+15.12.2018 01:43:02: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 358.343
+15.12.2018 01:43:02: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 358.343
+15.12.2018 01:43:02: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 358.343
+15.12.2018 01:43:02: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 358.343
+15.12.2018 01:43:02: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-358.343] @ 358.343
+15.12.2018 01:43:02: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-358.343] @ 358.371
+15.12.2018 01:43:02: V69 (21-07-2017) [processReporter] Ended @ 358.371
+15.12.2018 01:44:03: V69 (21-07-2017) =======================================================================================================
+15.12.2018 01:44:03: V69 (21-07-2017) [processReporter] Started @ 419.897 : [FPS: 50.1567|PLAYERS: 1|THREADS: 8]
+15.12.2018 01:44:03: V69 (21-07-2017) =======================================================================================================
+15.12.2018 01:44:03: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 01:44:03: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 419.897
+15.12.2018 01:44:03: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 419.897
+15.12.2018 01:44:03: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 419.897
+15.12.2018 01:44:03: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 419.917
+15.12.2018 01:44:03: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 419.917
+15.12.2018 01:44:03: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 419.917
+15.12.2018 01:44:03: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 419.917
+15.12.2018 01:44:03: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 419.917
+15.12.2018 01:44:03: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-419.917] @ 419.917
+15.12.2018 01:44:03: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-419.917] @ 419.917
+15.12.2018 01:44:03: V69 (21-07-2017) [processReporter] Ended @ 419.917
+15.12.2018 02:54:14: V69 (21-07-2017) =======================================================================================================
+15.12.2018 02:54:14: V69 (21-07-2017) [processReporter] Started @ 4627.05 : [FPS: 21.9479|PLAYERS: 0|THREADS: 9]
+15.12.2018 02:54:15: V69 (21-07-2017) =======================================================================================================
+15.12.2018 02:54:15: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 8 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 02:54:15: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 4627.1
+15.12.2018 02:54:15: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 4627.1
+15.12.2018 02:54:15: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 4627.1
+15.12.2018 02:54:15: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 4627.1
+15.12.2018 02:54:15: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 4627.1
+15.12.2018 02:54:15: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 4627.1
+15.12.2018 02:54:15: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 4627.1
+15.12.2018 02:54:15: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 4627.1
+15.12.2018 02:54:15: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>#line 1 ""exile_server\code\ExileServer_system_event_abandonedSafe_start.sqf""
+
+
+
+
+
+
+
+
+
+
+
+private[""_co","",true,1] @ 4627.15
+15.12.2018 02:54:15: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-4627.15] @ 4627.15
+15.12.2018 02:54:15: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-4627.15] @ 4627.15
+15.12.2018 02:54:15: V69 (21-07-2017) [processReporter] Ended @ 4627.15
+15.12.2018 02:55:29: V69 (21-07-2017) =======================================================================================================
+15.12.2018 02:55:29: V69 (21-07-2017) [processReporter] Started @ 4700.59 : [FPS: 20.5128|PLAYERS: 0|THREADS: 8]
+15.12.2018 02:55:29: V69 (21-07-2017) =======================================================================================================
+15.12.2018 02:55:29: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 02:55:29: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 4700.59
+15.12.2018 02:55:29: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 4700.59
+15.12.2018 02:55:29: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 4700.65
+15.12.2018 02:55:29: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 4700.65
+15.12.2018 02:55:29: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 4700.65
+15.12.2018 02:55:29: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 4700.65
+15.12.2018 02:55:29: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 4700.65
+15.12.2018 02:55:29: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 4700.65
+15.12.2018 02:55:29: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-4700.65] @ 4700.65
+15.12.2018 02:55:29: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-4700.65] @ 4700.65
+15.12.2018 02:55:29: V69 (21-07-2017) [processReporter] Ended @ 4700.65
+15.12.2018 02:56:30: V69 (21-07-2017) =======================================================================================================
+15.12.2018 02:56:30: V69 (21-07-2017) [processReporter] Started @ 4762.15 : [FPS: 22.0083|PLAYERS: 0|THREADS: 8]
+15.12.2018 02:56:30: V69 (21-07-2017) =======================================================================================================
+15.12.2018 02:56:30: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 02:56:30: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 4762.15
+15.12.2018 02:56:30: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 4762.2
+15.12.2018 02:56:30: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 4762.2
+15.12.2018 02:56:30: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 4762.2
+15.12.2018 02:56:30: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 4762.2
+15.12.2018 02:56:30: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 4762.2
+15.12.2018 02:56:30: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 4762.2
+15.12.2018 02:56:30: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 4762.2
+15.12.2018 02:56:30: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-4762.2] @ 4762.2
+15.12.2018 02:56:31: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-4762.2] @ 4762.2
+15.12.2018 02:56:31: V69 (21-07-2017) [processReporter] Ended @ 4762.25
+15.12.2018 02:57:31: V69 (21-07-2017) =======================================================================================================
+15.12.2018 02:57:31: V69 (21-07-2017) [processReporter] Started @ 4822.56 : [FPS: 22.5989|PLAYERS: 0|THREADS: 8]
+15.12.2018 02:57:31: V69 (21-07-2017) =======================================================================================================
+15.12.2018 02:57:31: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 02:57:31: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 4822.6
+15.12.2018 02:57:31: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 4822.6
+15.12.2018 02:57:31: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 4822.6
+15.12.2018 02:57:31: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 4822.6
+15.12.2018 02:57:31: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 4822.6
+15.12.2018 02:57:31: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 4822.6
+15.12.2018 02:57:31: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 4822.6
+15.12.2018 02:57:31: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 4822.6
+15.12.2018 02:57:31: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-4822.6] @ 4822.6
+15.12.2018 02:57:31: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-4822.6] @ 4822.6
+15.12.2018 02:57:31: V69 (21-07-2017) [processReporter] Ended @ 4822.65
+15.12.2018 02:58:31: V69 (21-07-2017) =======================================================================================================
+15.12.2018 02:58:31: V69 (21-07-2017) [processReporter] Started @ 4882.9 : [FPS: 22.5035|PLAYERS: 0|THREADS: 8]
+15.12.2018 02:58:31: V69 (21-07-2017) =======================================================================================================
+15.12.2018 02:58:31: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 02:58:31: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 4882.9
+15.12.2018 02:58:31: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 4882.94
+15.12.2018 02:58:31: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 4882.94
+15.12.2018 02:58:31: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 4882.94
+15.12.2018 02:58:31: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 4882.94
+15.12.2018 02:58:31: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 4882.94
+15.12.2018 02:58:31: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 4882.94
+15.12.2018 02:58:31: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 4882.94
+15.12.2018 02:58:31: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-4882.94] @ 4882.94
+15.12.2018 02:58:31: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-4882.94] @ 4882.94
+15.12.2018 02:58:31: V69 (21-07-2017) [processReporter] Ended @ 4882.99
+15.12.2018 03:31:09: V69 (21-07-2017) =======================================================================================================
+15.12.2018 03:31:09: V69 (21-07-2017) [processReporter] Started @ 6838.5 : [FPS: 16.5975|PLAYERS: 0|THREADS: 8]
+15.12.2018 03:31:09: V69 (21-07-2017) =======================================================================================================
+15.12.2018 03:31:09: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 03:31:09: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 6838.5
+15.12.2018 03:31:09: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 6838.5
+15.12.2018 03:31:09: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 6838.5
+15.12.2018 03:31:09: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 6838.5
+15.12.2018 03:31:09: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 6838.5
+15.12.2018 03:31:09: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 6838.63
+15.12.2018 03:31:09: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 6838.63
+15.12.2018 03:31:09: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 6838.63
+15.12.2018 03:31:09: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-6838.63] @ 6838.63
+15.12.2018 03:31:09: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Freeze_Manager",-6838.63] @ 6838.63
+15.12.2018 03:31:09: V69 (21-07-2017) [processReporter] Ended @ 6838.63
+15.12.2018 03:32:28: V69 (21-07-2017) =======================================================================================================
+15.12.2018 03:32:28: V69 (21-07-2017) [processReporter] Started @ 6916.66 : [FPS: 13.5823|PLAYERS: 0|THREADS: 8]
+15.12.2018 03:32:28: V69 (21-07-2017) =======================================================================================================
+15.12.2018 03:32:28: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 03:32:28: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 6916.73
+15.12.2018 03:32:28: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 6916.73
+15.12.2018 03:32:28: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 6916.73
+15.12.2018 03:32:28: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 6916.73
+15.12.2018 03:32:28: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 6916.73
+15.12.2018 03:32:28: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 6916.73
+15.12.2018 03:32:28: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 6916.73
+15.12.2018 03:32:28: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 6916.73
+15.12.2018 03:32:28: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-6916.79] @ 6916.79
+15.12.2018 03:32:28: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-6916.79] @ 6916.79
+15.12.2018 03:32:28: V69 (21-07-2017) [processReporter] Ended @ 6916.79
+15.12.2018 03:33:30: V69 (21-07-2017) =======================================================================================================
+15.12.2018 03:33:30: V69 (21-07-2017) [processReporter] Started @ 6978.63 : [FPS: 11.3154|PLAYERS: 0|THREADS: 8]
+15.12.2018 03:33:30: V69 (21-07-2017) =======================================================================================================
+15.12.2018 03:33:30: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 03:33:30: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 6978.71
+15.12.2018 03:33:30: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 6978.71
+15.12.2018 03:33:30: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 6978.71
+15.12.2018 03:33:30: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 6978.71
+15.12.2018 03:33:30: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 6978.71
+15.12.2018 03:33:30: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 6978.71
+15.12.2018 03:33:30: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 6978.71
+15.12.2018 03:33:30: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 6978.71
+15.12.2018 03:33:30: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-6978.71] @ 6978.71
+15.12.2018 03:33:31: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-6978.71] @ 6978.71
+15.12.2018 03:33:31: V69 (21-07-2017) [processReporter] Ended @ 6978.81
+15.12.2018 03:34:36: V69 (21-07-2017) =======================================================================================================
+15.12.2018 03:34:36: V69 (21-07-2017) [processReporter] Started @ 7043.26 : [FPS: 9.54654|PLAYERS: 0|THREADS: 8]
+15.12.2018 03:34:36: V69 (21-07-2017) =======================================================================================================
+15.12.2018 03:34:36: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 03:34:36: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 7043.26
+15.12.2018 03:34:36: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 7043.26
+15.12.2018 03:34:36: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 7043.26
+15.12.2018 03:34:36: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 7043.36
+15.12.2018 03:34:36: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 7043.36
+15.12.2018 03:34:36: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 7043.36
+15.12.2018 03:34:36: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 7043.36
+15.12.2018 03:34:36: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 7043.36
+15.12.2018 03:34:36: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-7043.36] @ 7043.36
+15.12.2018 03:34:36: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-7043.36] @ 7043.36
+15.12.2018 03:34:36: V69 (21-07-2017) [processReporter] Ended @ 7043.36
+15.12.2018 03:35:42: V69 (21-07-2017) =======================================================================================================
+15.12.2018 03:35:42: V69 (21-07-2017) [processReporter] Started @ 7105.15 : [FPS: 10.1652|PLAYERS: 0|THREADS: 8]
+15.12.2018 03:35:42: V69 (21-07-2017) =======================================================================================================
+15.12.2018 03:35:42: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 03:35:42: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 7105.15
+15.12.2018 03:35:42: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 7105.15
+15.12.2018 03:35:42: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 7105.15
+15.12.2018 03:35:42: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 7105.24
+15.12.2018 03:35:42: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 7105.24
+15.12.2018 03:35:42: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 7105.24
+15.12.2018 03:35:42: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 7105.24
+15.12.2018 03:35:42: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 7105.24
+15.12.2018 03:35:42: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-7105.24] @ 7105.24
+15.12.2018 03:35:42: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-7105.24] @ 7105.24
+15.12.2018 03:35:42: V69 (21-07-2017) [processReporter] Ended @ 7105.24
+15.12.2018 04:39:09: V69 (21-07-2017) =======================================================================================================
+15.12.2018 04:39:09: V69 (21-07-2017) [processReporter] Started @ 110.872 : [FPS: 50|PLAYERS: 0|THREADS: 9]
+15.12.2018 04:39:09: V69 (21-07-2017) =======================================================================================================
+15.12.2018 04:39:09: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 2 exec-ed: 0 execFSM-ed: 2
+15.12.2018 04:39:09: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 110.872
+15.12.2018 04:39:09: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 110.872
+15.12.2018 04:39:09: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 110.872
+15.12.2018 04:39:09: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 110.872
+15.12.2018 04:39:09: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 110.892
+15.12.2018 04:39:09: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 110.892
+15.12.2018 04:39:09: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 110.892
+15.12.2018 04:39:09: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 110.892
+15.12.2018 04:39:09: V69 (21-07-2017) [processReporter] Active SQF: ["BIS_fnc_sortNum","x\addons\a3_exile_occupation\scripts\functions\fnc_findsafePos.sqf",true,42] @ 110.892
+15.12.2018 04:39:09: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-110.892] @ 110.892
+15.12.2018 04:39:09: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-110.892] @ 110.892
+15.12.2018 04:39:09: V69 (21-07-2017) [processReporter] Ended @ 110.892
+15.12.2018 04:40:11: V69 (21-07-2017) =======================================================================================================
+15.12.2018 04:40:11: V69 (21-07-2017) [processReporter] Started @ 171.885 : [FPS: 49.8442|PLAYERS: 0|THREADS: 9]
+15.12.2018 04:40:11: V69 (21-07-2017) =======================================================================================================
+15.12.2018 04:40:11: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 2 exec-ed: 0 execFSM-ed: 2
+15.12.2018 04:40:11: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 171.885
+15.12.2018 04:40:11: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 171.885
+15.12.2018 04:40:11: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 171.885
+15.12.2018 04:40:11: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 171.885
+15.12.2018 04:40:11: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 171.905
+15.12.2018 04:40:11: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 171.905
+15.12.2018 04:40:11: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 171.905
+15.12.2018 04:40:11: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 171.905
+15.12.2018 04:40:11: V69 (21-07-2017) [processReporter] Active SQF: ["BIS_fnc_sortNum","x\addons\a3_exile_occupation\scripts\startOccupation.sqf",true,130] @ 171.905
+15.12.2018 04:40:11: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-171.905] @ 171.905
+15.12.2018 04:40:11: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-171.905] @ 171.905
+15.12.2018 04:40:11: V69 (21-07-2017) [processReporter] Ended @ 171.905
+15.12.2018 04:41:10: V69 (21-07-2017) =======================================================================================================
+15.12.2018 04:41:10: V69 (21-07-2017) [processReporter] Started @ 231.93 : [FPS: 49.8442|PLAYERS: 0|THREADS: 8]
+15.12.2018 04:41:10: V69 (21-07-2017) =======================================================================================================
+15.12.2018 04:41:10: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 04:41:10: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 231.93
+15.12.2018 04:41:10: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 231.93
+15.12.2018 04:41:10: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 231.93
+15.12.2018 04:41:10: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 231.93
+15.12.2018 04:41:10: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 231.95
+15.12.2018 04:41:10: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 231.95
+15.12.2018 04:41:10: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 231.95
+15.12.2018 04:41:10: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 231.95
+15.12.2018 04:41:10: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-231.95] @ 231.95
+15.12.2018 04:41:10: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-231.95] @ 231.95
+15.12.2018 04:41:10: V69 (21-07-2017) [processReporter] Ended @ 231.95
+15.12.2018 04:42:16: V69 (21-07-2017) =======================================================================================================
+15.12.2018 04:42:16: V69 (21-07-2017) [processReporter] Started @ 296.829 : [FPS: 50.1567|PLAYERS: 0|THREADS: 8]
+15.12.2018 04:42:16: V69 (21-07-2017) =======================================================================================================
+15.12.2018 04:42:16: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 04:42:16: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 296.829
+15.12.2018 04:42:16: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 296.829
+15.12.2018 04:42:16: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 296.829
+15.12.2018 04:42:16: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 296.829
+15.12.2018 04:42:16: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 296.849
+15.12.2018 04:42:16: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 296.849
+15.12.2018 04:42:16: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 296.849
+15.12.2018 04:42:16: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 296.849
+15.12.2018 04:42:16: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-296.849] @ 296.849
+15.12.2018 04:42:16: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-296.849] @ 296.849
+15.12.2018 04:42:16: V69 (21-07-2017) [processReporter] Ended @ 296.849
+15.12.2018 04:43:16: V69 (21-07-2017) =======================================================================================================
+15.12.2018 04:43:16: V69 (21-07-2017) [processReporter] Started @ 356.888 : [FPS: 49.5356|PLAYERS: 0|THREADS: 8]
+15.12.2018 04:43:16: V69 (21-07-2017) =======================================================================================================
+15.12.2018 04:43:16: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 04:43:16: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 356.888
+15.12.2018 04:43:16: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 356.888
+15.12.2018 04:43:16: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 356.888
+15.12.2018 04:43:16: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 356.888
+15.12.2018 04:43:16: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 356.908
+15.12.2018 04:43:16: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 356.908
+15.12.2018 04:43:16: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 356.908
+15.12.2018 04:43:16: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 356.908
+15.12.2018 04:43:16: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-356.908] @ 356.908
+15.12.2018 04:43:16: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-356.908] @ 356.908
+15.12.2018 04:43:16: V69 (21-07-2017) [processReporter] Ended @ 356.908
+15.12.2018 04:44:16: V69 (21-07-2017) =======================================================================================================
+15.12.2018 04:44:16: V69 (21-07-2017) [processReporter] Started @ 416.939 : [FPS: 50|PLAYERS: 0|THREADS: 8]
+15.12.2018 04:44:16: V69 (21-07-2017) =======================================================================================================
+15.12.2018 04:44:16: V69 (21-07-2017) [processReporter] Process Counts: spawn-ed: 7 execVM-ed: 1 exec-ed: 0 execFSM-ed: 2
+15.12.2018 04:44:16: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+diag_log format['<infiSTAR.de> %1 - Thread #1: Server Loop #1 starting',time];
+_admins = [""76561198","",true,4190] @ 416.939
+15.12.2018 04:44:16: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waitUntil {!(isNull (findDisplay 46))};
+(findDisplay 46) displayAddEventHandler [""KeyDown"", {
+priva","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,13] @ 416.939
+15.12.2018 04:44:16: V69 (21-07-2017) [processReporter] Active SQF: ["CHR_fnc_getAperture","\chr\chernarusredux_flashlight\scripts\fn_DarknessEffect.sqf [CHR_fnc_DarknessEffect]",true,162] @ 416.939
+15.12.2018 04:44:16: V69 (21-07-2017) [processReporter] Active SQF: ["DMS_fnc_HeliParatroopers_Monitor","x\addons\a3_exile_occupation\scripts\extras\processReporter.sqf",true,25] @ 416.939
+15.12.2018 04:44:16: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+	_code = {
+		_toServer = _this;
+		comment ""REMOTE_T"";
+		_li = missionNamespace getVariable [""Ii","",true,632] @ 416.959
+15.12.2018 04:44:16: V69 (21-07-2017) [processReporter] Active SQF: ["mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf","mpmissions\__cur_mp.ChernarusRedux\R3F_LOG\surveiller_objets_a_proteger.sqf",true,92] @ 416.959
+15.12.2018 04:44:16: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+waituntil { !isnil ""bis_fnc_init"" && !isNull findDisplay 46 && alive player && !isNil ""ExileClientL","ExAdClient\StatsBar\postInit.sqf [ExAd_fnc_postInitSB]",true,144] @ 416.959
+15.12.2018 04:44:16: V69 (21-07-2017) [processReporter] Active SQF: ["<spawn>
+CHVD_scriptRunning = true;
+
+waitUntil {time > 0 && !isNil ""ExileClientPlayerIsSpawned""};
+
+
+CHVD_all","mpmissions\__cur_mp.ChernarusRedux\ExadClient\XM8\Apps\CHVD\config.sqf",true,47] @ 416.959
+15.12.2018 04:44:16: V69 (21-07-2017) [processReporter] Active FSM: ["main.fsm","Wait",-416.959] @ 416.959
+15.12.2018 04:44:16: V69 (21-07-2017) [processReporter] Active FSM: ["missions","Waiting",-416.959] @ 416.959
+15.12.2018 04:44:16: V69 (21-07-2017) [processReporter] Ended @ 416.959

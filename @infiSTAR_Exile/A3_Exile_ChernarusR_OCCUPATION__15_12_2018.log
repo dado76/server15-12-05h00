@@ -1,0 +1,321 @@
+﻿15.12.2018 01:37:54: V69 (21-07-2017) =============================================================================================================
+15.12.2018 01:37:54: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 51.15
+15.12.2018 01:37:54: V69 (21-07-2017) =============================================================================================================
+15.12.2018 01:37:54: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 51.202
+15.12.2018 01:37:54: V69 (21-07-2017) [processReporter]:: Initialised at 51.202
+15.12.2018 01:37:54: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version June 8, 2017
+15.12.2018 01:37:54: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 51.225
+15.12.2018 01:38:39: V69 (21-07-2017) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+15.12.2018 01:38:39: V69 (21-07-2017) [OCCUPATION:LootCrates]:: worldname: ChernarusRedux crates to spawn: 2
+15.12.2018 01:38:42: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [7127.85,8585.17,0] with 2 guards
+15.12.2018 01:38:45: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [3899.12,7015.72,0] with 2 guards
+15.12.2018 01:39:00: V69 (21-07-2017) [OCCUPATION:HeliCrashes]:: Initialised at 116.721
+15.12.2018 01:39:00: V69 (21-07-2017) [OCCUPATION:HeliCrashes]::  worldname: ChernarusRedux crashes to spawn: 2
+15.12.2018 01:39:02: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 1 : Location [2077.03,4851.03,0]
+15.12.2018 01:39:03: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [2077.03,4851.03,0] with 1 guards
+15.12.2018 01:39:04: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 2 : Location [5593.44,7229.24,0]
+15.12.2018 01:39:05: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [5593.44,7229.24,0] with 2 guards
+15.12.2018 01:39:09: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:32 multipler is 4
+15.12.2018 01:39:25: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 141.41
+15.12.2018 01:40:05: V69 (21-07-2017) [OCCUPATION]:: threads added at 182.093
+15.12.2018 01:40:09: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:36 multipler is 4
+15.12.2018 01:40:25: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 201.588
+15.12.2018 01:41:11: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:40 multipler is 4
+15.12.2018 01:41:26: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 263.043
+15.12.2018 01:42:11: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:44 multipler is 4
+15.12.2018 01:42:26: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 323.21
+15.12.2018 01:43:12: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:48 multipler is 4
+15.12.2018 01:43:27: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 383.344
+15.12.2018 01:44:13: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:52 multipler is 4
+15.12.2018 01:44:23: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+15.12.2018 01:51:37: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [8442.79,8684.97,0]
+15.12.2018 01:52:01: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4551.3,5692.81,-3.05176e-005]
+15.12.2018 01:53:55: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 1-4:1 _repairStatus false
+15.12.2018 01:53:55: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 1-4:1 _repairStatus false
+15.12.2018 01:53:55: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 1-4:1 _repairStatus true
+15.12.2018 01:53:55: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 1-4:1 repairing(true) vehicle at 1010.23
+15.12.2018 01:54:02: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 1-4:1 finished repairing vehicle O Alpha 1-4:1 at 1017.22
+15.12.2018 01:57:35: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4593.93,8785.12,0]
+15.12.2018 02:01:13: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4478.5,9461.76,0]
+15.12.2018 02:01:39: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [9625.85,13255.3,0]
+15.12.2018 02:03:23: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [7583.38,8371.59,3.05176e-005]
+15.12.2018 02:06:26: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [4478.5,9461.76,0]
+15.12.2018 02:07:07: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-2:1 _repairStatus false
+15.12.2018 02:07:07: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 3-2:1 _repairStatus false
+15.12.2018 02:07:07: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Not enough damage to disable O Alpha 3-2:1, driver is O Alpha 3-2:1 at 1801.81
+15.12.2018 02:07:07: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 3-2:1 _repairStatus false
+15.12.2018 02:10:13: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4551.3,5692.81,-3.05176e-005]
+15.12.2018 02:11:41: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [8442.79,8684.97,0]
+15.12.2018 02:12:19: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [2686.54,7272.24,0]
+15.12.2018 02:13:12: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4539.68,10833.2,0]
+15.12.2018 02:17:21: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [9625.85,13255.3,0]
+15.12.2018 02:19:35: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 4-1:1 _repairStatus false
+15.12.2018 02:19:35: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 4-1:1 _repairStatus false
+15.12.2018 02:19:35: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 4-1:1 _repairStatus true
+15.12.2018 02:19:35: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 4-1:1 repairing(true) vehicle at 2549.43
+15.12.2018 02:19:42: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 4-1:1 finished repairing vehicle O Alpha 4-1:1 at 2556.42
+15.12.2018 02:20:34: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [8920.24,12512.5,0]
+15.12.2018 02:23:11: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [4796.97,7773.57,0]
+15.12.2018 02:25:04: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4551.3,5692.81,-3.05176e-005]
+15.12.2018 02:26:36: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [10676.7,9125.08,0]
+15.12.2018 02:29:04: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [4771.56,9535.71,-3.05176e-005]
+15.12.2018 02:30:22: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 4-6:1 _repairStatus false
+15.12.2018 02:30:22: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 4-6:1 _repairStatus false
+15.12.2018 02:30:22: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 4-6:1 _repairStatus true
+15.12.2018 02:30:22: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 4-6:1 repairing(true) vehicle at 3195.67
+15.12.2018 02:30:29: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 4-6:1 finished repairing vehicle O Alpha 4-6:1 at 3202.67
+15.12.2018 02:30:40: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_LSV_01_unarmed_black_F spawned @ [4479.23,9462.19,0.0615234]
+15.12.2018 02:32:05: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 4-3:1 _repairStatus false
+15.12.2018 02:32:05: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 4-3:1 _repairStatus false
+15.12.2018 02:32:05: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Not enough damage to disable O Alpha 4-3:1, driver is O Alpha 4-3:1 at 3298.05
+15.12.2018 02:32:05: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 4-3:1 _repairStatus false
+15.12.2018 02:36:13: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [4377.99,9378.4,0]
+15.12.2018 02:38:09: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Bravo 1-2:1 _repairStatus false
+15.12.2018 02:38:09: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Bravo 1-2:1 _repairStatus false
+15.12.2018 02:38:09: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Bravo 1-2:1 _repairStatus true
+15.12.2018 02:38:09: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Bravo 1-2:1 repairing(true) vehicle at 3662.3
+15.12.2018 02:38:16: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Bravo 1-2:1 finished repairing vehicle O Bravo 1-2:1 at 3669.29
+15.12.2018 02:39:24: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4906.77,9549.78,0]
+15.12.2018 02:41:58: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 4-5:1 _repairStatus false
+15.12.2018 02:41:58: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 4-5:1 _repairStatus false
+15.12.2018 02:41:58: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Not enough damage to disable O Alpha 4-5:1, driver is O Alpha 4-5:1 at 3890.88
+15.12.2018 02:41:58: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 4-5:1 _repairStatus false
+15.12.2018 02:43:33: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4906.77,9549.78,0]
+15.12.2018 02:45:03: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Bravo 1-3:1 _repairStatus false
+15.12.2018 02:45:03: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Bravo 1-3:1 _repairStatus false
+15.12.2018 02:45:03: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Bravo 1-3:1 _repairStatus true
+15.12.2018 02:45:03: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Bravo 1-3:1 repairing(true) vehicle at 4075.66
+15.12.2018 02:45:10: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Bravo 1-3:1 finished repairing vehicle O Bravo 1-3:1 at 4082.68
+15.12.2018 02:48:08: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [5019.22,8317.29,0]
+15.12.2018 02:49:34: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [4478.5,9461.76,0]
+15.12.2018 02:52:36: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [4593.93,8785.12,0]
+15.12.2018 02:53:23: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Bravo 2-1:1 _repairStatus false
+15.12.2018 02:53:23: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Bravo 2-1:1 _repairStatus false
+15.12.2018 02:53:23: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Not enough damage to disable O Bravo 2-1:1, driver is O Bravo 2-1:1 at 4575.59
+15.12.2018 02:53:23: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Bravo 2-1:1 _repairStatus false
+15.12.2018 02:54:01: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4478.5,9461.76,0]
+15.12.2018 02:54:14: V69 (21-07-2017) [OCCUPATION:Vehicle] End check 25 currently active (max 25) @ 4626.15
+15.12.2018 02:54:15: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 20:32 multipler is 24
+15.12.2018 02:54:15: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4627.15
+15.12.2018 02:54:15: V69 (21-07-2017) [OCCUPATION:Sky] Started
+15.12.2018 02:54:18: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Bravo 1-2:1 _repairStatus false
+15.12.2018 02:54:18: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Bravo 1-2:1 _repairStatus false
+15.12.2018 02:54:18: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Bravo 1-2:1 _repairStatus true
+15.12.2018 02:54:18: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Bravo 1-6:1 _repairStatus false
+15.12.2018 02:54:18: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Bravo 1-6:1 _repairStatus false
+15.12.2018 02:54:18: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Bravo 1-6:1 _repairStatus true
+15.12.2018 02:54:19: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Bravo 1-6:1 repairing(true) vehicle at 4630.57
+15.12.2018 02:54:19: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Bravo 1-2:1 repairing(true) vehicle at 4630.57
+15.12.2018 02:54:19: V69 (21-07-2017) [OCCUPATION:Sky] Running
+15.12.2018 02:54:19: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 4630.94
+15.12.2018 02:54:26: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Bravo 1-2:1 finished repairing vehicle O Bravo 1-2:1 at 4637.68
+15.12.2018 02:54:26: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Bravo 1-6:1 finished repairing vehicle O Bravo 1-6:1 at 4637.74
+15.12.2018 02:54:30: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 4642.06
+15.12.2018 02:54:30: V69 (21-07-2017) [OCCUPATION:Unstick]:: Air: O Bravo 2-3:1 is active
+15.12.2018 02:54:33: V69 (21-07-2017) [OCCUPATION:Unstick]:: Air: O Bravo 2-3:1 is too close to a map marker, redirecting destination
+15.12.2018 02:54:33: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+15.12.2018 02:54:33: V69 (21-07-2017) [OCCUPATION:Unstuck]:: Offroad (B_GEN_Offroad_01_gen_F) is stuck,attempting to unstick from [8442.85,8685.09,-0.0443115] @ 4644.82
+15.12.2018 02:54:33: V69 (21-07-2017) [OCCUPATION:Unstuck]:: Offroad (B_GEN_Offroad_01_gen_F) was stuck and was moved from [8442.85,8685.09,-0.0443115] to [8436.5,8688.5,0] resetting patrol around point [8442.79,8684.97,0] @ 4645.13
+15.12.2018 02:54:36: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 1-4:1 is active
+15.12.2018 02:54:37: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: 5f379600# 1565357: offroad_02_f.p3d is active
+15.12.2018 02:54:40: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: ae386b00# 1568010: offroad_02_f.p3d is active
+15.12.2018 02:54:42: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: ae404100# 1568972: offroad_02_f.p3d is active
+15.12.2018 02:54:44: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 2-6:1 is active
+15.12.2018 02:54:46: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 3-2:1 is active
+15.12.2018 02:54:48: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:1 is active
+15.12.2018 02:54:50: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+15.12.2018 02:54:52: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 3-6:1 is active
+15.12.2018 02:54:54: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 4-1:1 is active
+15.12.2018 02:54:56: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 4-2:1 is active
+15.12.2018 02:54:58: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: 61511600# 1574889: offroad_01_unarmed_f.p3d is active
+15.12.2018 02:55:01: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 4-4:1 is active
+15.12.2018 02:55:03: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 4-5:1 is active
+15.12.2018 02:55:05: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 4-6:1 is active
+15.12.2018 02:55:07: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: ab669600# 1580863: lsv_01_f.p3d is active
+15.12.2018 02:55:09: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Bravo 2-2:1 _repairStatus false
+15.12.2018 02:55:09: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Bravo 2-2:1 _repairStatus false
+15.12.2018 02:55:09: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Bravo 2-2:1 _repairStatus true
+15.12.2018 02:55:09: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Bravo 2-2:1 repairing(true) vehicle at 4680.6
+15.12.2018 02:55:09: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 1-2:1 is active
+15.12.2018 02:55:11: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 1-3:1 is active
+15.12.2018 02:55:13: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 1-4:1 is active
+15.12.2018 02:55:15: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 1-5:1 is active
+15.12.2018 02:55:16: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Bravo 2-2:1 finished repairing vehicle O Bravo 2-2:1 at 4687.65
+15.12.2018 02:55:17: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 1-6:1 is active
+15.12.2018 02:55:19: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 3-1:1 is active
+15.12.2018 02:55:21: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 2-1:1 is active
+15.12.2018 02:55:23: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 2-2:1 is active
+15.12.2018 02:55:25: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 4697.05
+15.12.2018 02:55:29: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 21:2 multipler is 24
+15.12.2018 02:55:29: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4700.7
+15.12.2018 02:55:30: V69 (21-07-2017) [OCCUPATION:Vehicle]:: No replacement Driver found for vehicle ae386b00# 1568010: offroad_02_f.p3d
+15.12.2018 02:56:31: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 21:26 multipler is 24
+15.12.2018 02:56:31: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4762.25
+15.12.2018 02:56:55: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-6:1 _repairStatus false
+15.12.2018 02:56:55: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 3-6:1 _repairStatus false
+15.12.2018 02:56:55: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 3-6:1 _repairStatus true
+15.12.2018 02:56:55: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-6:1 repairing(true) vehicle at 4787.15
+15.12.2018 02:57:03: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-6:1 finished repairing vehicle O Alpha 3-6:1 at 4794.17
+15.12.2018 02:57:31: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 21:50 multipler is 24
+15.12.2018 02:57:31: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4822.65
+15.12.2018 02:58:31: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 22:15 multipler is 24
+15.12.2018 02:58:31: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 4882.99
+15.12.2018 02:59:11: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Bravo 1-5:1 _repairStatus false
+15.12.2018 02:59:11: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Bravo 1-5:1 _repairStatus false
+15.12.2018 02:59:11: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Not enough damage to disable O Bravo 1-5:1, driver is O Bravo 1-5:1 at 4922.55
+15.12.2018 02:59:11: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Bravo 1-5:1 _repairStatus false
+15.12.2018 02:59:16: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+15.12.2018 03:01:23: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4532.28,8814.09,0]
+15.12.2018 03:07:27: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4539.68,10833.2,0]
+15.12.2018 03:09:16: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [10543.3,12405.6,0]
+15.12.2018 03:16:23: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [4906.77,9549.78,0]
+15.12.2018 03:21:09: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [2701.65,7282.7,3.05176e-005]
+15.12.2018 03:30:55: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4478.5,9461.76,0]
+15.12.2018 03:31:08: V69 (21-07-2017) [OCCUPATION:Vehicle] End check 25 currently active (max 25) @ 6837.9
+15.12.2018 03:31:09: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:18 multipler is 4
+15.12.2018 03:31:09: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6838.69
+15.12.2018 03:31:09: V69 (21-07-2017) [OCCUPATION:Sky] Started
+15.12.2018 03:31:09: V69 (21-07-2017) [OCCUPATION:Places]:: Starting Occupation Monitor @ 6838.75
+15.12.2018 03:31:22: V69 (21-07-2017) [OCCUPATION:Unstick]:: Initialised at 6851.22
+15.12.2018 03:31:22: V69 (21-07-2017) [OCCUPATION:Unstick]:: Air: O Bravo 2-3:1 is active
+15.12.2018 03:31:25: V69 (21-07-2017) [OCCUPATION:Unstick]:: Air: O Bravo 2-3:1 is too close to a map marker, redirecting destination
+15.12.2018 03:31:25: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 1-4:1 is active
+15.12.2018 03:31:25: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [9909.06,8761.31,0.00244141] @ 6854.19
+15.12.2018 03:31:25: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (C_Offroad_02_unarmed_F) was stuck and was moved from [9909.06,8761.31,0.00244141] to [9913.5,8765.5,0] resetting patrol around point [8442.79,8684.97,0] @ 6854.68
+15.12.2018 03:31:27: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 2-6:1 is active
+15.12.2018 03:31:27: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [8569.49,12710.4,0.895378] @ 6857.05
+15.12.2018 03:31:28: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) was stuck and was moved from [8569.49,12710.4,0.895378] to [8563.5,12709.5,0] resetting patrol around point [9625.85,13255.3,0] @ 6857.45
+15.12.2018 03:31:30: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 3-2:1 is active
+15.12.2018 03:31:30: V69 (21-07-2017) [OCCUPATION:Unstuck]:: Offroad (B_GEN_Offroad_01_gen_F) is stuck,attempting to unstick from [4538.77,9766.52,-0.0959473] @ 6859.8
+15.12.2018 03:31:31: V69 (21-07-2017) [OCCUPATION:Unstuck]:: Offroad (B_GEN_Offroad_01_gen_F) was stuck and was moved from [4538.77,9766.52,-0.0959473] to [4533.5,9771.5,0] resetting patrol around point [4478.5,9461.76,0] @ 6860.31
+15.12.2018 03:31:33: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 3-3:3 is active
+15.12.2018 03:31:33: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [5252.39,8174.33,0.011322] @ 6862.7
+15.12.2018 03:31:34: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) was stuck and was moved from [5252.39,8174.33,0.011322] to [5258.5,8174.5,0] resetting patrol around point [4551.3,5692.81,-3.05176e-005] @ 6863.09
+15.12.2018 03:31:36: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 3-5:1 is active
+15.12.2018 03:31:36: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [2979.15,7662.55,0.0557556] @ 6865.44
+15.12.2018 03:31:36: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) was stuck and was moved from [2979.15,7662.55,0.0557556] to [2979.5,7656.5,0] resetting patrol around point [2686.54,7272.24,0] @ 6865.83
+15.12.2018 03:31:39: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 3-6:1 is active
+15.12.2018 03:31:41: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 4-1:1 is active
+15.12.2018 03:31:41: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [9041.92,13258.2,-0.00665283] @ 6870.15
+15.12.2018 03:31:42: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (C_Offroad_02_unarmed_F) was stuck and was moved from [9041.92,13258.2,-0.00665283] to [9047.5,13260.5,0] resetting patrol around point [9625.85,13255.3,0] @ 6870.45
+15.12.2018 03:31:44: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 4-2:1 is active
+15.12.2018 03:31:44: V69 (21-07-2017) [OCCUPATION:Unstuck]:: Offroad (B_GEN_Offroad_01_gen_F) is stuck,attempting to unstick from [9298.08,14265.4,0.214218] @ 6872.75
+15.12.2018 03:31:44: V69 (21-07-2017) [OCCUPATION:Unstuck]:: Offroad (B_GEN_Offroad_01_gen_F) was stuck and was moved from [9298.08,14265.4,0.214218] to [9291.5,14262.5,0] resetting patrol around point [8920.24,12512.5,0] @ 6873.2
+15.12.2018 03:31:47: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 4-4:1 is active
+15.12.2018 03:31:47: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [3030.44,7581.7,0.0280762] @ 6875.54
+15.12.2018 03:31:47: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) was stuck and was moved from [3030.44,7581.7,0.0280762] to [3036.5,7581.5,0] resetting patrol around point [4551.3,5692.81,-3.05176e-005] @ 6876.12
+15.12.2018 03:31:49: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 4-5:1 is active
+15.12.2018 03:31:52: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 4-6:1 is active
+15.12.2018 03:31:52: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [4348.42,10238.7,-0.000854492] @ 6880.44
+15.12.2018 03:31:52: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (C_Offroad_02_unarmed_F) was stuck and was moved from [4348.42,10238.7,-0.000854492] to [4342.5,10237.5,0] resetting patrol around point [4771.56,9535.71,-3.05176e-005] @ 6880.77
+15.12.2018 03:31:54: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 1-2:1 is active
+15.12.2018 03:31:54: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [4466.91,8851.8,-0.00222778] @ 6883.17
+15.12.2018 03:31:55: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (C_Offroad_02_unarmed_F) was stuck and was moved from [4466.91,8851.8,-0.00222778] to [4461.5,8854.5,0] resetting patrol around point [4377.99,9378.4,0] @ 6883.49
+15.12.2018 03:31:57: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 1-3:1 is active
+15.12.2018 03:31:57: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [6128.98,11057.1,0.0650024] @ 6885.89
+15.12.2018 03:31:58: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) was stuck and was moved from [6128.98,11057.1,0.0650024] to [6123.5,11054.5,0] resetting patrol around point [4906.77,9549.78,0] @ 6886.24
+15.12.2018 03:32:00: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 1-4:1 is active
+15.12.2018 03:32:00: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [6480.38,9593.46,0.0380859] @ 6888.62
+15.12.2018 03:32:00: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) was stuck and was moved from [6480.38,9593.46,0.0380859] to [6481.5,9587.5,0] resetting patrol around point [4906.77,9549.78,0] @ 6888.93
+15.12.2018 03:32:03: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: 7a072b00# 1588943: offroad_01_unarmed_f.p3d is active
+15.12.2018 03:32:05: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 1-6:1 is active
+15.12.2018 03:32:05: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [4464.79,8861,-0.00231934] @ 6893.53
+15.12.2018 03:32:05: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (C_Offroad_02_unarmed_F) was stuck and was moved from [4464.79,8861,-0.00231934] to [4467.5,8866.5,0] resetting patrol around point [4478.5,9461.76,0] @ 6893.83
+15.12.2018 03:32:07: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 2-1:1 is active
+15.12.2018 03:32:09: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 2-2:1 is active
+15.12.2018 03:32:09: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [4538.76,9763.05,0.00167847] @ 6898.1
+15.12.2018 03:32:10: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) was stuck and was moved from [4538.76,9763.05,0.00167847] to [4537.5,9756.5,0] resetting patrol around point [4478.5,9461.76,0] @ 6898.34
+15.12.2018 03:32:12: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 3-4:1 is active
+15.12.2018 03:32:14: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 2-5:1 is active
+15.12.2018 03:32:16: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 2-6:1 is active
+15.12.2018 03:32:18: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 3-1:1 is active
+15.12.2018 03:32:20: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 3-2:1 is active
+15.12.2018 03:32:22: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Alpha 3-1:1 is active
+15.12.2018 03:32:24: V69 (21-07-2017) [OCCUPATION:Unstick]:: Land: O Bravo 3-3:1 is active
+15.12.2018 03:32:24: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) is stuck,attempting to unstick from [4478.44,9461.7,0.00765991] @ 6912.8
+15.12.2018 03:32:25: V69 (21-07-2017) [OCCUPATION:Unstuck]:: MB 4WD (I_C_Offroad_02_unarmed_F) was stuck and was moved from [4478.44,9461.7,0.00765991] to [4484.5,9461.5,0] resetting patrol around point [4478.5,9461.76,0] @ 6913.37
+15.12.2018 03:32:27: V69 (21-07-2017) [OCCUPATION:Unstick]:: Finished at 6915.7
+15.12.2018 03:32:28: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:23 multipler is 4
+15.12.2018 03:32:28: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6916.79
+15.12.2018 03:33:31: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:27 multipler is 4
+15.12.2018 03:33:31: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 6978.81
+15.12.2018 03:34:36: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:31 multipler is 4
+15.12.2018 03:34:36: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7043.46
+15.12.2018 03:35:42: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 11:36 multipler is 4
+15.12.2018 03:35:42: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 7105.34
+15.12.2018 03:36:18: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+15.12.2018 03:36:31: V69 (21-07-2017) [OCCUPATION:Vehicle]:: No replacement Driver found for vehicle O Bravo 3-3:1
+15.12.2018 03:39:19: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [9625.85,13255.3,0]
+15.12.2018 03:39:50: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [8435.22,8674.84,-3.05176e-005]
+15.12.2018 03:49:03: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [10676.7,9125.08,0]
+15.12.2018 03:57:37: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [4906.77,9549.78,0]
+15.12.2018 04:00:23: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [10039.4,13330.7,1.52588e-005]
+15.12.2018 04:01:27: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Bravo 2-5:1 _repairStatus false
+15.12.2018 04:01:27: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Bravo 2-5:1 _repairStatus false
+15.12.2018 04:01:27: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Bravo 2-5:1 _repairStatus true
+15.12.2018 04:01:27: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Bravo 2-5:1 repairing(true) vehicle at 8627.26
+15.12.2018 04:01:34: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Bravo 2-5:1 finished repairing vehicle O Bravo 2-5:1 at 8634.47
+15.12.2018 04:02:35: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [3633.3,5483.29,0]
+15.12.2018 04:06:23: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Bravo 3-6:1 _repairStatus false
+15.12.2018 04:06:23: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Bravo 3-6:1 _repairStatus false
+15.12.2018 04:06:23: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Bravo 3-6:1 _repairStatus true
+15.12.2018 04:06:23: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Bravo 3-6:1 repairing(true) vehicle at 8922.13
+15.12.2018 04:06:30: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Bravo 3-6:1 finished repairing vehicle O Bravo 3-6:1 at 8929.47
+15.12.2018 04:09:11: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [11083.5,9310.97,-7.62939e-006]
+15.12.2018 04:16:25: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_LSV_01_unarmed_black_F spawned @ [8795.31,10986.2,0]
+15.12.2018 04:38:04: V69 (21-07-2017) =============================================================================================================
+15.12.2018 04:38:04: V69 (21-07-2017) [OCCUPATION MOD]:: Occupation V69 (21-07-2017) Initialised at 45.832
+15.12.2018 04:38:04: V69 (21-07-2017) =============================================================================================================
+15.12.2018 04:38:04: V69 (21-07-2017) [OCCUPATION:Traders] starting @ 45.894
+15.12.2018 04:38:04: V69 (21-07-2017) [processReporter]:: Initialised at 45.894
+15.12.2018 04:38:04: V69 (21-07-2017) [OCCUPATION]:: Detected DMS version June 8, 2017
+15.12.2018 04:38:04: V69 (21-07-2017) [OCCUPATION]:: Occupation V69 (21-07-2017) Adding modules to Exile system thread manager at 45.914
+15.12.2018 04:38:49: V69 (21-07-2017) [OCCUPATION:LootCrates]:: Starting Occupation Loot Crates
+15.12.2018 04:38:49: V69 (21-07-2017) [OCCUPATION:LootCrates]:: worldname: ChernarusRedux crates to spawn: 2
+15.12.2018 04:38:51: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 1 at drop zone [5586.04,13895.1,0] with 2 guards
+15.12.2018 04:38:53: V69 (21-07-2017) [OCCUPATION:LootCrates]::  Creating crate 2 at drop zone [5015.43,9208.6,0] with 2 guards
+15.12.2018 04:39:08: V69 (21-07-2017) [OCCUPATION:HeliCrashes]:: Initialised at 109.972
+15.12.2018 04:39:08: V69 (21-07-2017) [OCCUPATION:HeliCrashes]::  worldname: ChernarusRedux crashes to spawn: 2
+15.12.2018 04:39:10: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 1 : Location [2914.6,3856.94,0]
+15.12.2018 04:39:10: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 1 at [2914.6,3856.94,0] with 2 guards
+15.12.2018 04:39:12: V69 (21-07-2017) [OCCUPATION:HeliCrashes] Crash 2 : Location [4090.1,12414.1,0]
+15.12.2018 04:39:12: V69 (21-07-2017) [OCCUPATION:HeliCrash]::  Creating HeliCrash 2 at [4090.1,12414.1,0] with 1 guards
+15.12.2018 04:39:20: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:32 multipler is 4
+15.12.2018 04:39:35: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 136.875
+15.12.2018 04:40:12: V69 (21-07-2017) [OCCUPATION]:: threads added at 173.705
+15.12.2018 04:40:21: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:36 multipler is 4
+15.12.2018 04:40:36: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 196.917
+15.12.2018 04:41:20: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:40 multipler is 4
+15.12.2018 04:41:40: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 261.81
+15.12.2018 04:42:21: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:44 multipler is 4
+15.12.2018 04:42:41: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 321.878
+15.12.2018 04:43:21: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:48 multipler is 4
+15.12.2018 04:43:41: V69 (21-07-2017) [OCCUPATION:RandomSpawn]:: Starting Occupation Monitor @ 381.912
+15.12.2018 04:44:21: V69 (21-07-2017) [OCCUPATION:FastNights]::  Current in game time is 15:52 multipler is 4
+15.12.2018 04:44:31: V69 (21-07-2017) [OCCUPATION:Vehicle] Started
+15.12.2018 04:44:54: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [8442.79,8684.97,0]
+15.12.2018 04:49:15: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [4551.3,5692.81,-3.05176e-005]
+15.12.2018 04:49:29: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [4796.97,7773.57,0]
+15.12.2018 04:55:00: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [2765.86,7306.91,0]
+15.12.2018 04:57:27: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle C_Offroad_02_unarmed_F spawned @ [2765.86,7306.91,0]
+15.12.2018 04:59:29: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle I_C_Offroad_02_unarmed_F spawned @ [11066.8,9305.81,0]
+15.12.2018 05:00:29: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 2-3:1 _repairStatus false
+15.12.2018 05:00:29: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 2-3:1 _repairStatus false
+15.12.2018 05:00:29: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Not enough damage to disable O Alpha 2-3:1, driver is O Alpha 2-3:1 at 1389.28
+15.12.2018 05:00:29: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 2-3:1 _repairStatus false
+15.12.2018 05:01:37: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle B_GEN_Offroad_01_gen_F spawned @ [4796.97,7773.57,0]
+15.12.2018 05:02:16: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-1:1 _repairStatus false
+15.12.2018 05:02:16: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 3-1:1 _repairStatus false
+15.12.2018 05:02:16: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 3-1:1 _repairStatus true
+15.12.2018 05:02:16: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-1:1 repairing(true) vehicle at 1496.11
+15.12.2018 05:02:23: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 3-1:1 finished repairing vehicle O Alpha 3-1:1 at 1503.1
+15.12.2018 05:02:39: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 2-4:1 _repairStatus false
+15.12.2018 05:02:39: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 2-4:1 _repairStatus false
+15.12.2018 05:02:39: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 2-4:1 _repairStatus true
+15.12.2018 05:02:39: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 2-4:1 repairing(true) vehicle at 1518.83
+15.12.2018 05:02:46: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Unit O Alpha 2-4:1 finished repairing vehicle O Alpha 2-4:1 at 1525.83
+15.12.2018 05:02:49: V69 (21-07-2017) [OCCUPATION:Vehicle] bandit vehicle O_T_Truck_03_device_ghex_F spawned @ [4593.93,8785.12,0]
+15.12.2018 05:03:35: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Vehicle O Alpha 3-2:1 _repairStatus false
+15.12.2018 05:03:35: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Starting repair check Vehicle O Alpha 3-2:1 _repairStatus false
+15.12.2018 05:03:35: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Not enough damage to disable O Alpha 3-2:1, driver is O Alpha 3-2:1 at 1574.23
+15.12.2018 05:03:35: V69 (21-07-2017) [OCCUPATION:repairVehicle]:: Finished mphit eventhandler for Vehicle O Alpha 3-2:1 _repairStatus false
